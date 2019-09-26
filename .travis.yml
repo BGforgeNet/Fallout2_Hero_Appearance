@@ -1,0 +1,27 @@
+language: minimal
+dist: bionic
+sudo: false
+
+script:
+  - ./extra/appearance.sh
+
+env:
+  global:
+    - extra_dir: extra
+    - bin_dir: extra/bin
+    - mod_version: 1
+    - appearance_dir: appearance
+    - release_dir: release
+    - WINEARCH: win32
+    - WINEDEBUG: -all
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file_glob: true
+  file:
+    - appearance*.zip
+  skip_cleanup: true
+  on:
+    tags: true
+    branch: master
