@@ -8,6 +8,9 @@ file_list="$(realpath file.list)"
 release_dir="$(realpath $release_dir)"
 zip="appearance_v${mod_version}.zip"
 
+sudo apt-get -q update
+sudo apt-get -q -y --no-install-recommends install wine-stable wine32
+
 if [[ -d "$appearance_dir" ]]; then
   mkdir -p "$release_dir/appearance"
   cd "$appearance_dir"
@@ -15,7 +18,7 @@ if [[ -d "$appearance_dir" ]]; then
     dat="$a.dat"
     cd "$a"
     find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-#    $dat2a "$release_dir/appearance/$dat" @"$file_list"
+    $dat2a "$release_dir/appearance/$dat" @"$file_list"
     cd ..
   done
 fi
