@@ -3,11 +3,11 @@
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Hero_Appearance.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Hero_Appearance)
 
 * [Download](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/releases/latest)
-* [Installation](#installation), [update](#update)
+* [Installation](#installation)
 * [Discord](https://discord.gg/4Yqfggm)
 * [Changelog](docs/changelog.md)
 
-This a collection of additional _player_ character models for Fallout 2 and games based on its engine.
+This a collection of additional __player__ character models for Fallout 2 and games based on its engine.
 
 ## Installation
 
