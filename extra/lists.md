@@ -23,14 +23,4 @@ diff -u male_frm.list ms02.list  | grep '^-'
 diff -u female_frm.list fs03.list | grep '^-'
 --- female_frm.list	2020-02-29 19:37:48.593027328 +0700
 -hfjmpsgg.frm
--hfjmpsrd.frm
--hfjmpsrf.frm
--hfjmpsrg.frm
--hfjmpsri.frm
--hfprimbo.frm
--hfprimbp.frm
--hfprimch.frm
--hfprimcj.frm
--hfprimra.frm
--hfprimrb.frm
 ```
