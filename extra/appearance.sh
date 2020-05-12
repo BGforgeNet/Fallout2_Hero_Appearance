@@ -6,10 +6,14 @@ bin_dir="$(realpath $bin_dir)"
 dat2a="wine $bin_dir/dat2.exe a -1"
 file_list="$(realpath file.list)"
 release_dir="$(realpath $release_dir)"
-zip="appearance_v${mod_version}.zip"
+# release?
+if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
+  export version="$TRAVIS_TAG"
+else
+  export version="git$TRAVIS_COMMIT"
+fi
+zip="appearance_${version}.zip"
 
-sudo apt-get -q update
-sudo apt-get -q -y --no-install-recommends install wine-stable wine32
 
 if [[ -d "$appearance_dir" ]]; then
   mkdir -p "$release_dir/appearance"

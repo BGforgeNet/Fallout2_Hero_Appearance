@@ -2,6 +2,14 @@ language: minimal
 dist: bionic
 sudo: false
 
+addons:
+  apt:
+    update: true
+    packages:
+      - p7zip
+      - wine-stable
+      - wine32
+
 script:
   - ./extra/appearance.sh
 
@@ -9,7 +17,6 @@ env:
   global:
     - extra_dir: extra
     - bin_dir: extra/bin
-    - mod_version: 1
     - appearance_dir: appearance
     - release_dir: release
     - WINEARCH: win32

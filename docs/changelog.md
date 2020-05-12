@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.2
+Fixed package version in filename.
+
 ## Version 1.1
 Fixed Punk Girl switching to default look on death.
 
