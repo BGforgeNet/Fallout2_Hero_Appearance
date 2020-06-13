@@ -1,7 +1,7 @@
 # Hero Appearance mod for Fallout 2
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Hero_Appearance.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Hero_Appearance)
-[![Translation status]https://tra.bgforge.net/widgets/fallout/-/hero-appearance/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/hero-appearance/)
+[![Translation status](https://tra.bgforge.net/widgets/fallout/-/hero-appearance/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/hero-appearance/)
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/releases/latest)
