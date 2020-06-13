@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Dude. You come from a long line of Generic Default Dudes.}
+{100}{}{Раса}
+{101}{}{Вы типичный мужской персонаж. Вы один из длинного ряда типичных мужских персонажей.}

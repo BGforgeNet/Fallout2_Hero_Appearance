@@ -1,2 +1,2 @@
-{100}{}{Race (Black)}
-{101}{}{You are the Generic Black Dude. But Generic. But Black.}
+{100}{}{Раса - негр}
+{101}{}{Вы обычный черный парень. Но обычный. Но черный.}
