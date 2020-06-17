@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2
+- Added multiple other sets, including non-canon ones.
+- Added some translations.
+
 ## Version 1.2
 Fixed package version in filename.
 
