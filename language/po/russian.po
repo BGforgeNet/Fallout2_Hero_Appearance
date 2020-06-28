@@ -4,19 +4,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-06-14 14:12+0000\n"
-"Last-Translator: Magus <magus@bgforge.net>\n"
-"Language-Team: Russian <https://tra.bgforge.net/projects/fallout/hero-appearance/ru/>\n"
+"PO-Revision-Date: 2020-06-29 14:12+0000\n"
+"Last-Translator: egornovivan <egornov.ivan@gmail.com>\n"
+"Language-Team: Russian <https://tra.bgforge.net/projects/fallout/"
+"hero-appearance/ru/>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.1.1\n"
 
 #: hfr00s00_game/apprace.msg:100 hmr00s00_game/apprace.msg:100
 msgid "Race (Default)"
-msgstr "Раса"
+msgstr "Раса (Обычная)"
 
 #: hfr00s00_game/apprace.msg:101
 msgid ""
@@ -28,7 +30,7 @@ msgstr ""
 
 #: hfr00s00_game/appstyle.msg:100 hmr00s00_game/appstyle.msg:100
 msgid "Style (Default)"
-msgstr "Стиль волос - обычный"
+msgstr "Стиль (Обычный)"
 
 #: hfr00s00_game/appstyle.msg:101
 msgid ""
@@ -42,7 +44,7 @@ msgstr ""
 
 #: hfr00s01_game/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr "Стиль волос - блондинка"
+msgstr "Стиль (Блондинка)"
 
 #: hfr00s01_game/appstyle.msg:101
 msgid ""
@@ -56,7 +58,7 @@ msgstr ""
 
 #: hfr00s02_game/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr "Стиль волос - рыженькая"
+msgstr "Стиль (Рыжая)"
 
 #: hfr00s02_game/appstyle.msg:101
 msgid ""
@@ -68,7 +70,7 @@ msgstr ""
 
 #: hfr00s03_game/appstyle.msg:100
 msgid "Style (Punk Girl)"
-msgstr "Стиль волос - ирокез"
+msgstr "Стиль (Ирокез)"
 
 #: hfr00s03_game/appstyle.msg:101
 msgid ""
@@ -80,15 +82,15 @@ msgstr ""
 
 #: hfr01s00_game/apprace.msg:100 hmr03s00_game/apprace.msg:100
 msgid "Race (Other)"
-msgstr "Другая раса"
+msgstr "Раса (Другая)"
 
 #: hfr01s00_game/apprace.msg:101 hmr03s00_game/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr "Альтернативный, неканоничные модели."
+msgstr "Альтернативные, неканоничные модели."
 
 #: hfr01s00_game/appstyle.msg:100
 msgid "Style (Unicorn)"
-msgstr "Стиль - единорог"
+msgstr "Стиль (Единорог)"
 
 #: hfr01s00_game/appstyle.msg:101
 msgid ""
@@ -97,8 +99,8 @@ msgid ""
 "detonations. Being a unicorn, Pip possesses the power of telekinesis."
 msgstr ""
 "Маленькая Звездочка, обитатель конюшни. Звездочку занесло сюда из вселенной "
-"под названием Эквестрия или того, что от нее осталось после бомбардировки. "
-"Будучи единорогом, Звездочка обладает силой телекинеза."
+"под названием Эквестрия или того, что от нее осталось после мегазаклинания "
+"взрыва. Будучи единорогом, Звездочка обладает силой телекинеза."
 
 #: hmr00s00_game/apprace.msg:101
 msgid ""
@@ -119,7 +121,7 @@ msgstr ""
 
 #: hmr00s01_game/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr "Стиль волос - длинноволосый мужик"
+msgstr "Стиль (Длинные волосы)"
 
 #: hmr00s01_game/appstyle.msg:101
 msgid ""
@@ -133,7 +135,7 @@ msgstr ""
 
 #: hmr00s02_game/appstyle.msg:100 hmr01s00_game/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr "Стиль волос - лысый мужик"
+msgstr "Стиль (Лысый)"
 
 #: hmr00s02_game/appstyle.msg:101 hmr01s00_game/appstyle.msg:101
 msgid ""
@@ -148,7 +150,7 @@ msgstr ""
 
 #: hmr01s00_game/apprace.msg:100
 msgid "Race (Black)"
-msgstr "Раса - негр"
+msgstr "Раса (Черный)"
 
 #: hmr01s00_game/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
@@ -156,27 +158,31 @@ msgstr "Вы обычный черный парень. Но обычный. Но
 
 #: hmr02s00_game/apprace.msg:100
 msgid "Race (Indian)"
-msgstr "Раса - индеец"
+msgstr "Раса (Индеец)"
 
 #: hmr02s00_game/apprace.msg:101
 msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
+"Ваше обветренное лицо и бронзовая кожа показывают, что вы истинное дитя "
+"Пустоши. Даже ваши друзья из племени называют вас \"Племя\"."
 
 #: hmr02s00_game/appstyle.msg:100
 msgid "Style (Dreadlocks)"
-msgstr "Стиль волос - дреды"
+msgstr "Стиль (Дреды)"
 
 #: hmr02s00_game/appstyle.msg:101
 msgid ""
 "Your long tangled hair looks like it hasn't been washed for a long time. "
 "Perhaps, it is exactly so."
 msgstr ""
+"Ваши длинные запутанные волосы выглядят так, как будто их давно не мыли. "
+"Возможно, это именно так."
 
 #: hmr03s00_game/appstyle.msg:100
 msgid "Style (Vault Boy)"
-msgstr "Стиль - Волт Бой"
+msgstr "Стиль (Волт Бой)"
 
 #: hmr03s00_game/appstyle.msg:101
 msgid ""
