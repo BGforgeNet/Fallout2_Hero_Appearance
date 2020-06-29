@@ -1,2 +1,2 @@
-{100}{}{Раса - индеец}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{Раса (Индеец)}
+{101}{}{Ваше обветренное лицо и бронзовая кожа показывают, что вы истинное дитя Пустоши. Даже ваши друзья из племени называют вас "Племя".}

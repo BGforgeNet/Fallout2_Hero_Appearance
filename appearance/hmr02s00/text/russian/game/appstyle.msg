@@ -1,2 +1,2 @@
-{100}{}{Стиль волос - дреды}
-{101}{}{Your long tangled hair looks like it hasn't been washed for a long time. Perhaps, it is exactly so.}
+{100}{}{Стиль (Дреды)}
+{101}{}{Ваши длинные запутанные волосы выглядят так, как будто их давно не мыли. Возможно, это именно так.}
