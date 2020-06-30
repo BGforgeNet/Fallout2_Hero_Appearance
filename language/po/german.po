@@ -4,28 +4,32 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-06-30 21:04+0000\n"
+"Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/fallout/"
+"hero-appearance/de/>\n"
+"Language: german\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: hfr00s00_game/apprace.msg:100 hmr00s00_game/apprace.msg:100
 msgid "Race (Default)"
-msgstr ""
+msgstr "Rasse (Standard)"
 
 #: hfr00s00_game/apprace.msg:101
 msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
+"Du bist der typische weibliche Standardcharakter. Du stammst aus einer "
+"langen Reihe von typischen weiblichen Standardcharaktern ab."
 
 #: hfr00s00_game/appstyle.msg:100 hmr00s00_game/appstyle.msg:100
 msgid "Style (Default)"
-msgstr ""
+msgstr "Stil (Standard)"
 
 #: hfr00s00_game/appstyle.msg:101
 msgid ""
@@ -33,10 +37,14 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
+"Im Gegensatz zu den meisten Ihrer Stammesgenossinnen, die ihr langes Haar "
+"mit einem Pferdeschwanz tragen, ist Ihr schwarzes Haar eckig geschnitten und "
+"schulterlang. Was also, wenn sie kichern und dich hinter deinem Rücken "
+"Eimerkopf nennen?"
 
 #: hfr00s01_game/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr ""
+msgstr "Stil (Blonde Frau)"
 
 #: hfr00s01_game/appstyle.msg:101
 msgid ""
@@ -44,20 +52,25 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
+"Deine seidenen, honigblonden Locken haben dich schon immer aus deinem Stamm "
+"hervorstechen lassen. Die Jungs gaffen, die Mädchen blicken mürrisch, \n"
+"und du würdest es gar nicht anders haben wollen."
 
 #: hfr00s02_game/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr ""
+msgstr "Stil (Rothaarige Frau)"
 
 #: hfr00s02_game/appstyle.msg:101
 msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
+"Manche sagen, dein karmesinrotes Haar deutet darauf hin, dass du keine Seele "
+"besitzt. Aber wenn man so gut aussiehst, wer braucht da eine?"
 
 #: hfr00s03_game/appstyle.msg:100
 msgid "Style (Punk Girl)"
-msgstr ""
+msgstr "Stil (Punk Mädchen)"
 
 #: hfr00s03_game/appstyle.msg:101
 msgid ""
@@ -66,18 +79,22 @@ msgid ""
 "in shamanic ritual to invoke the serpent. The green dye of holy root was "
 "used to give this effigy life."
 msgstr ""
+"Du allein trägst die grüne Fruchtbarkeitsschlange auf deinem Kopf, die den "
+"anderen Stammesfrauen den Segen neuer Kinder zukommen lässt. Unter "
+"Verwendung des grünen Farbstoffs der heiligen Wurzel wurde dein Haar im "
+"schamanischem Ritual geschnitten, um die Schlange zu beschwören."
 
 #: hfr01s00_game/apprace.msg:100 hmr03s00_game/apprace.msg:100
 msgid "Race (Other)"
-msgstr ""
+msgstr "Rasse (Andere)"
 
 #: hfr01s00_game/apprace.msg:101 hmr03s00_game/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr ""
+msgstr "Alternative, nicht-kanonische Aussehen."
 
 #: hfr01s00_game/appstyle.msg:100
 msgid "Style (Unicorn)"
-msgstr ""
+msgstr "Stil (Einhorn)"
 
 #: hfr01s00_game/appstyle.msg:101
 msgid ""
@@ -85,12 +102,18 @@ msgid ""
 "place called Equestria, or what remains of it after a series of megaspell "
 "detonations. Being a unicorn, Pip possesses the power of telekinesis."
 msgstr ""
+"Littlepip, der Stallbewohner. Pip kam aus einem alternativen Universum von "
+"einem Ort namens Equestria, oder was davon nach einer Reihe von Megaspell-"
+"Explosionen übrig geblieben ist. Da Pip ein Einhorn ist, besitzt es die "
+"Kraft der Telekinese."
 
 #: hmr00s00_game/apprace.msg:101
 msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
+"Du bist der generische Standard-Kerl. Du stammst aus einer langen Reihe von "
+"generischen Standard-Kerlen."
 
 #: hmr00s00_game/appstyle.msg:101
 msgid ""
@@ -98,10 +121,13 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
+"Du siehst aus wie eine Art generischer Standard-Kerl. Alles an deinem "
+"Aussehen ist generisch und standardmäßig - nicht, dass daran etwas falsch "
+"wäre."
 
 #: hmr00s01_game/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr ""
+msgstr "Stil (Langhaariger Kerl)"
 
 #: hmr00s01_game/appstyle.msg:101
 msgid ""
@@ -109,10 +135,13 @@ msgid ""
 "fellow villagers look on in awe as the multifaceted strands of your glorious"
 " mane sparkle in the morning light."
 msgstr ""
+"Deine langen, wallenden Locken hüpfen auf deinem Schultern, wenn du "
+"vorbeiläufst. Deine Mitbewohner schauen voller Ehrfurcht zu, wenn die "
+"facettenreichen Stränge deiner herrlichen Mähne im Morgenlicht funkeln."
 
 #: hmr00s02_game/appstyle.msg:100 hmr01s00_game/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr ""
+msgstr "Stil (Klatzköpfiger Kerl)"
 
 #: hmr00s02_game/appstyle.msg:101 hmr01s00_game/appstyle.msg:101
 msgid ""
@@ -120,41 +149,52 @@ msgid ""
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
 "head. Either way, you're rocking the chrome dome and proud of it."
 msgstr ""
+"Haare? Wer braucht die? Du bist ein strahlendes Leuchtfeuer nüchterner, "
+"schroffer Männlichkeit. Oder vielleicht ist das nur die Sonne der Einöde, "
+"die von deinem Kopf reflektiert wird. So oder so, du schaukelst die "
+"verchromte Kuppel und bist stolz darauf."
 
 #: hmr01s00_game/apprace.msg:100
 msgid "Race (Black)"
-msgstr ""
+msgstr "Rasse (schwarz)"
 
 #: hmr01s00_game/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr ""
+msgstr "Du bist der generische schwarze Kerl."
 
 #: hmr02s00_game/apprace.msg:100
 msgid "Race (Indian)"
-msgstr ""
+msgstr "Rasse (Indisch)"
 
 #: hmr02s00_game/apprace.msg:101
 msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
+"Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres "
+"Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich \"Der "
+"Stammtyp\"."
 
 #: hmr02s00_game/appstyle.msg:100
 msgid "Style (Dreadlocks)"
-msgstr ""
+msgstr "Stil (Dreadlocks)"
 
 #: hmr02s00_game/appstyle.msg:101
 msgid ""
 "Your long tangled hair looks like it hasn't been washed for a long time. "
 "Perhaps, it is exactly so."
 msgstr ""
+"Dein langes verfilztes Haar sieht aus, als wäre es schon lange nicht mehr "
+"gewaschen worden. Wahrscheinlich ist es genau so."
 
 #: hmr03s00_game/appstyle.msg:100
 msgid "Style (Vault Boy)"
-msgstr ""
+msgstr "Stil (Vault Boy)"
 
 #: hmr03s00_game/appstyle.msg:101
 msgid ""
 "What a doll that baby. Well, just ducky. You right off wall poster from the "
 "Vault, the living embodiment of Vault-Boy."
 msgstr ""
+"Was für eine Puppe. Einfach entzückend. Sie enstammen direkt einem "
+"Wandplakat aus dem Bunker, der lebenden Verkörperung des Vault-Boy."
