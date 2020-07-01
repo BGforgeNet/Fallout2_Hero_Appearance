@@ -1,2 +1,2 @@
-{100}{}{Race (Indian)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{Rasse (Indisch)}
+{101}{}{Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich "Der Stammtyp".}

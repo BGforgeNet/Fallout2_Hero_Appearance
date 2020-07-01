@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Stil (Rothaarige Frau)}
+{101}{}{Manche sagen, dein karmesinrotes Haar deutet darauf hin, dass du keine Seele besitzt. Aber wenn man so gut aussiehst, wer braucht da eine?}

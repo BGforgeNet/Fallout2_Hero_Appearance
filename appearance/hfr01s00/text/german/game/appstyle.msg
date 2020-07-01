@@ -1,2 +1,2 @@
-{100}{}{Style (Unicorn)}
-{101}{}{Littlepip, The Stable Dweller. Pip came from an alternative universe from a place called Equestria, or what remains of it after a series of megaspell detonations. Being a unicorn, Pip possesses the power of telekinesis.}
+{100}{}{Stil (Einhorn)}
+{101}{}{Littlepip, der Stallbewohner. Pip kam aus einem alternativen Universum von einem Ort namens Equestria, oder was davon nach einer Reihe von Megaspell-Explosionen übrig geblieben ist. Da Pip ein Einhorn ist, besitzt es die Kraft der Telekinese.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Punk Girl)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{100}{}{Stil (Punk-Göre)}
+{101}{}{Du allein trägst die grüne Fruchtbarkeitsschlange auf deinem Kopf, die den anderen Stammesfrauen den Segen neuer Kinder zukommen lässt. Unter Verwendung des grünen Farbstoffs der heiligen Wurzel wurde dein Haar im schamanischem Ritual geschnitten, um die Schlange zu beschwören.}

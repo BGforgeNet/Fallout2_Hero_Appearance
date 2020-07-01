@@ -1,2 +1,3 @@
-{100}{}{Style (Blond Haired Female)}
-{101}{}{Your silken honey-blond tresses have always made you stand out among your tribe. The boys ogle, the girls scowl, and you wouldn't have it any other way.}
+{100}{}{Stil (Blondhaarige Frau)}
+{101}{}{Deine seidenen, honigblonden Locken haben dich schon immer aus deinem Stamm hervorstechen lassen. Die Jungs gaffen, die Mädchen blicken mürrisch, 
+und du würdest es gar nicht anders haben wollen.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Bald Head Dude)}
-{101}{}{Hair? Who needs it? You're a shining beacon of no-nonsense rugged masculinity. Or maybe that's just the wasteland sun reflecting off your head. Either way, you're rocking the chrome dome and proud of it.}
+{100}{}{Stil (Klatzköpfiger Kerl)}
+{101}{}{Haare? Wer braucht die? Du bist ein strahlendes Leuchtfeuer nüchterner, schroffer Männlichkeit. Oder vielleicht ist das nur die Sonne der Einöde, die von deinem Kopf reflektiert wird. So oder so, du schaukelst die verchromte Birne und bist stolz darauf.}

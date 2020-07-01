@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Female Character. You come from a long line of Generic Default Female Characters.}
+{100}{}{Rasse (Standard)}
+{101}{}{Du bist der typische weibliche Standardcharakter. Du enstammst einer langen Reihe von typischen weiblichen Standardcharaktern.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Vault Boy)}
-{101}{}{What a doll that baby. Well, just ducky. You right off wall poster from the Vault, the living embodiment of Vault-Boy.}
+{100}{}{Stil (Vault Boy)}
+{101}{}{Was für eine Puppe. Einfach entzückend. Du könnstes direkt einem Wandplakat aus dem Bunker enstprungen sein. Die lebende Verkörperung des Vault-Boy!}
