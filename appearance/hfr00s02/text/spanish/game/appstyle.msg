@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Estilo (Pelo Rubio Femenino)}
+{101}{}{Algunos dicen que su cabello carmesí indica que falta un alma. Pero cuando usted mira esta buena, que necesita uno?}

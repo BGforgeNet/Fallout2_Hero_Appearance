@@ -1,2 +1,2 @@
-{100}{}{Race (Indian)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{De La Carrera (De La India)}
+{101}{}{Su rostro curtido y piel de bronce demostrar que eres un verdadero hijo de la tierra. Incluso su tribales amigos llaman "Tribales".}

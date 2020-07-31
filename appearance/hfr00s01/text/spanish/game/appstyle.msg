@@ -1,2 +1,2 @@
-{100}{}{Style (Blond Haired Female)}
-{101}{}{Your silken honey-blond tresses have always made you stand out among your tribe. The boys ogle, the girls scowl, and you wouldn't have it any other way.}
+{100}{}{Estilo (Pelo Rubio Femenino)}
+{101}{}{Su silken miel rubia cabellera siempre lo han hecho a que usted se destaca entre los de su tribu. Los chicos de ogle, las chicas ceño fruncido, y usted no lo haría de ninguna otra manera.}

@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Dude. You come from a long line of Generic Default Dudes.}
+{100}{}{Raza (Por Defecto)}
+{101}{}{Usted es el Genérico Predeterminado Amigo. Usted viene de una larga línea de Genérico Predeterminado Dudes.}

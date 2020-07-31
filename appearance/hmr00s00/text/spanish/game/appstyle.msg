@@ -1,2 +1,2 @@
-{100}{}{Style (Default)}
-{101}{}{You look like some kind of Generic Default Dude. Everything about your appearance is Generic and Default--not that there's anything wrong with that.}
+{100}{}{Estilo (Por Defecto)}
+{101}{}{Se ven como una especie de Genérico Predeterminado Amigo. Todo acerca de tu apariencia es Genérica y por Defecto ... no es que haya nada malo con eso.}
