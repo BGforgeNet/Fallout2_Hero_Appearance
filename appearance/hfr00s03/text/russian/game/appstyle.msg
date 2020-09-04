@@ -1,2 +1,2 @@
 {100}{}{Стиль (Ирокез)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{101}{}{Вы носите зеленого змея плодородия на своей голове, чтобы дать другим соплеменницам благословение на новых детей. Ваши волосы были подстрижены в шаманском ритуале, чтобы вызвать змею. Зеленая краска святого корня была использована, чтобы дать этому чучелу жизнь.}
