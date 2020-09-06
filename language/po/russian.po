@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2020-09-04 16:10+0000\n"
+"PO-Revision-Date: 2020-09-06 14:12+0000\n"
 "Last-Translator: egornovivan <egornov.ivan@gmail.com>\n"
 "Language-Team: Russian <https://tra.bgforge.net/projects/fallout/"
 "hero-appearance/ru/>\n"
@@ -90,7 +90,7 @@ msgstr "Раса (Другая)"
 
 #: hfr01s00_game/apprace.msg:101 hmr03s00_game/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr "Альтернативные, не каноничные модели."
+msgstr "Альтернативные, неканоничные модели."
 
 #: hfr01s00_game/appstyle.msg:100
 msgid "Style (Unicorn)"
@@ -125,7 +125,7 @@ msgstr ""
 
 #: hmr00s01_game/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr "Стиль (Длинные волосы)"
+msgstr "Стиль (Длинноволосый)"
 
 #: hmr00s01_game/appstyle.msg:101
 msgid ""
