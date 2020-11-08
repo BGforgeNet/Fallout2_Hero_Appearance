@@ -27,7 +27,7 @@ deploy:
   api_key: $GITHUB_TOKEN
   file_glob: true
   file:
-    - appearance*.zip
+    - hero_appearance*.zip
   skip_cleanup: true
   on:
     tags: true

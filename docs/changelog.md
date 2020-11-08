@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.1
+Packaged non-canon set separately.
+
 ## Version 2
 - Added multiple other sets, including non-canon ones.
 - Added some translations.

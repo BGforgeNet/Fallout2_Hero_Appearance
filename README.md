@@ -19,4 +19,14 @@ This a collection of additional **player** character models for Fallout 2 and ga
 - Ensure that [sfall](https://github.com/phobos2077/sfall) is installed and `EnableHeroAppearanceMod=1` is set in `ddraw.ini`.
 - After that, simply download the [latest release](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/releases/latest) and extract it into game directory.
 
+## Contents
+### Canon
+Main package.
+- Female: Blonde, Red Haired, Punk Girl.
+- Male: Bald, Long Haired, Black dude, Indian (long haired).
+### Non-canon
+Humorous value, packaged separately. Requires main package to work.
+- Vault Boy
+- Unicorn
+
 ### [Changelog](docs/changelog.md)
