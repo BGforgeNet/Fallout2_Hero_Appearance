@@ -12,7 +12,7 @@ This a collection of additional **player** character models for Fallout 2 and ga
 
 **Notes:**
 - You can use it with [killap's Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch), other modifications or vanilla game.
-- It is **already included** in [killap's Restoration Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you're using RPU, you **do not need** to download this collection separately.
+- [Canon](#canon) sets are **already included** in [killap's Restoration Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you're using RPU, you **do not need** to download them separately.
 - The sets are not guaranteed to be complete.
 
 ## Installation
@@ -21,7 +21,7 @@ This a collection of additional **player** character models for Fallout 2 and ga
 
 ## Contents
 ### Canon
-Main package.
+Main package. Bundled with [RPU](https://github.com/BGforgeNet/Fallout2_Restoration_Project).
 - Female: Blonde, Red Haired, Punk Girl.
 - Male: Bald, Long Haired, Black dude, Indian (long haired).
 ### Non-canon
