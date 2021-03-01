@@ -11,8 +11,8 @@
 This a collection of additional **player** character models for Fallout 2 and games based on its engine.
 
 **Notes:**
-- You can use it with [killap's Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch), other modifications or vanilla game.
-- [Canon](#canon) sets are **already included** into [killap's Restoration Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you use RPU, you **do not need** to download them separately.
+- You can use it with [Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch), other modifications or vanilla game.
+- [Canon](#canon) sets are **already included** into [Restoration Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you use RPU, you **do not need** to download them separately.
 - The sets are not guaranteed to be complete.
 
 ## Installation
@@ -30,7 +30,7 @@ Humorous value, packaged separately. Requires main package to work.
 - Unicorn
 
 ### Bug reports, feature requests
-Go to [github issues](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) or [forums](https://forums.bgforge.net/viewforum.php?f=34).
+Go to [github issues](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=34).
 
 ### Additional info
 [__Changelog__](docs/changelog.md)
