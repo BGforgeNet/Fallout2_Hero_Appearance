@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.2
+Completed Portuguese translation.
+
 ## Version 2.1
 Packaged non-canon sets separately.
 
