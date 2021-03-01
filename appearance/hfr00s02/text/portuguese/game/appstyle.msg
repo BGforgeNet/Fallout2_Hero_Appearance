@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Estilo (Mulher de Cabelo Vermelho)}
+{101}{}{Alguns dizem que seu cabelo escarlate indica que falta uma alma em você Mas quando você é bonita assim quem precisa de uma?}

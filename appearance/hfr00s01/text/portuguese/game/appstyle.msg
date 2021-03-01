@@ -1,2 +1,2 @@
-{100}{}{Style (Blond Haired Female)}
-{101}{}{Your silken honey-blond tresses have always made you stand out among your tribe. The boys ogle, the girls scowl, and you wouldn't have it any other way.}
+{100}{}{Estilo (Mulher de Cabelo Loiro)}
+{101}{}{Suas tranças loiras como mel, de seda, sempre fizeram você se destacar entre sua tribo. Os garotos cobiçam, as garotas fazem cara feia e você não quer que seja de outro jeito.}

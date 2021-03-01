@@ -1,2 +1,2 @@
-{100}{}{Style (Vault Boy)}
-{101}{}{What a doll that baby. Well, just ducky. You right off wall poster from the Vault, the living embodiment of Vault-Boy.}
+{100}{}{Estilo (Garoto da Vault)}
+{101}{}{Que boneco esse, baby. Bem, apenas satisfatório. Seu post na parede direita da Vault, a incarnação viva do Garoto da Vault.}

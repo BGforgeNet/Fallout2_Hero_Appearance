@@ -1,2 +1,2 @@
-{100}{}{Style (Default)}
-{101}{}{Unlike most of your fellow tribeswomen, who wear their long hair in a ponytail, your black hair is square-cut and shoulder length. So what if they snicker and call you Bucket-Head behind your back?}
+{100}{}{Estilo (Padrão)}
+{101}{}{Ao contrário da maioria das suas camaradas mulheres da tribo que usam o cabelo comprido delas com rabo de cavalo, seu cabelo preto é de corte quadrado na altura do ombro. Então e daí se eles riem e chamam você de Cabeça de Balde pelas suas costas?}
