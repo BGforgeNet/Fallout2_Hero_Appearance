@@ -1,2 +1,2 @@
-{100}{}{Estilo (Punk Girl)}
-{101}{}{Usted solo desgaste de la serpiente verde de la fertilidad sobre su cabeza, con el fin de dar a los demás tribeswomen la bendición de los nuevos niños. Su cabello fue cortado en rituales chamánicos para invocar la serpiente. El tinte verde de santo raíz se utiliza para dar a esta efigie de la vida.}
+{100}{}{Estilo (Chica Punk)}
+{101}{}{Tú solo llevas sobre tu cabeza la serpiente verde de la fertilidad, con el fin de dar a las otras mujeres de la tribu la bendición de nuevos hijos. Su cabello fue cortado en rituales chamánicos para invocar la serpiente. El tinte verde de la raíz sagrada se utilizó para dar vida a esta efigie.}

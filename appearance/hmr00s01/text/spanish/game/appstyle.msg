@@ -1,2 +1,2 @@
-{100}{}{Estilo (Pelo Largo Tio)}
-{101}{}{Su tiempo fluye bloqueos de rebote sobre sus hombros como trota por. Sus compañeros del pueblo mira con asombro como las múltiples hebras de su gloriosa melena brillo en la luz de la mañana.}
+{100}{}{Estilo (Hombre de Pelo Largo)}
+{101}{}{Tus largos mechones que fluyen rebotan sobre tus hombros mientras corres. Tus compañeros del pueblo miran con asombro cómo las hebras multifacéticas de tu gloriosa melena brillan a la luz de la mañana.}

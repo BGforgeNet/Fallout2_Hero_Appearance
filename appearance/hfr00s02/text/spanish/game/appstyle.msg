@@ -1,2 +1,2 @@
-{100}{}{Estilo (Pelo Rubio Femenino)}
-{101}{}{Algunos dicen que su cabello carmesí indica que falta un alma. Pero cuando usted mira esta buena, que necesita uno?}
+{100}{}{Estilo (Mujer Pelirroja)}
+{101}{}{Algunos dicen que tu cabello carmesí indica que no tienes alma. Pero cuando te ves tan bien, ¿quién necesita una?}

@@ -1,2 +1,2 @@
-{100}{}{Estilo (Pelo Rubio Femenino)}
-{101}{}{Su silken miel rubia cabellera siempre lo han hecho a que usted se destaca entre los de su tribu. Los chicos de ogle, las chicas ceño fruncido, y usted no lo haría de ninguna otra manera.}
+{100}{}{Estilo (Mujer Rubia)}
+{101}{}{Tus sedosos cabellos rubios miel siempre te han hecho destacar entre tu tribu. Los chicos de te comen con los ojos, las chicas fruncen el ceño, y tú no lo tendrías de ninguna otra manera.}

@@ -1,2 +1,2 @@
-{100}{}{Raza (Otros)}
-{101}{}{Alternativas no-canon de las apariencias.}
+{100}{}{Raza (Otra)}
+{101}{}{Apariencias alternativas no canónicas.}

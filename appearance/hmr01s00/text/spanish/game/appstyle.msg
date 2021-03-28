@@ -1,2 +1,2 @@
-{100}{}{Estilo (Calva Tio)}
-{101}{}{El cabello? ¿Quién la necesita? Eres un faro luminoso de ninguna tontería-resistente de la masculinidad. O tal vez eso es sólo el páramo del sol reflejándose en su cabeza. De cualquier manera, usted está meciendo el chrome dome y orgulloso de ello.}
+{100}{}{Estilo (Hombre Calvo)}
+{101}{}{Cabello? ¿Quién lo necesita? Eres un faro brillante de masculinidad robusta y sensata. O tal vez es sólo el sol del yermo reflejándose en tu cabeza. De cualquier manera, estás sacudiendo la cúpula cromada orgulloso de ello.}

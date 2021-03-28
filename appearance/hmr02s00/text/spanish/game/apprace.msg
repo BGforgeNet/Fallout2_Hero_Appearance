@@ -1,2 +1,2 @@
-{100}{}{De La Carrera (De La India)}
-{101}{}{Su rostro curtido y piel de bronce demostrar que eres un verdadero hijo de la tierra. Incluso su tribales amigos llaman "Tribales".}
+{100}{}{Raza (Hindú)}
+{101}{}{Tu rostro curtido y tu piel bronceada muestran que eres un verdadero hijo del yermo. Incluso tus amigos tribales te llaman "El Tribal".}
