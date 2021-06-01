@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.3
+Completed Spanish translation.
+
 ## Version 2.2
 Completed Portuguese translation.
 
