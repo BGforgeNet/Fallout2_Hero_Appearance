@@ -4,28 +4,32 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-06-24 14:12+0000\n"
+"Last-Translator: Valerio Buzi <valeriobuzi87@gmail.com>\n"
+"Language-Team: Italian <https://tra.bgforge.net/projects/fallout/"
+"hero-appearance/it/>\n"
+"Language: italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: hfr00s00_game/apprace.msg:100 hmr00s00_game/apprace.msg:100
 msgid "Race (Default)"
-msgstr ""
+msgstr "Razza (Predefinito)"
 
 #: hfr00s00_game/apprace.msg:101
 msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
+"Sei il generico personaggio femminile predefinito. Arrivi da una lunga serie "
+"di personaggi generici femminili predefiniti."
 
 #: hfr00s00_game/appstyle.msg:100 hmr00s00_game/appstyle.msg:100
 msgid "Style (Default)"
-msgstr ""
+msgstr "Stile (Predefinito)"
 
 #: hfr00s00_game/appstyle.msg:101
 msgid ""
@@ -33,10 +37,13 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
+"A differenza delle donne della tua tribu', che hanno i capelli a coda di "
+"cavallo, i tuo capelli neri hanno un taglio fino alle spalle. E se qualcuno "
+"di soppiatto ti chiamasse testa-di-secchio?"
 
 #: hfr00s01_game/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr ""
+msgstr "Stile (Donna dai capelli biondi)"
 
 #: hfr00s01_game/appstyle.msg:101
 msgid ""
@@ -44,20 +51,24 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
+"I tuoi capelli miele dorato hanno sempre spiccato nella tua tribu'. I "
+"ragazzi ti osservano, le ragazze ti odiano, e tutto questo ti piace."
 
 #: hfr00s02_game/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr ""
+msgstr "Stile (Femmina dai capelli rossi)"
 
 #: hfr00s02_game/appstyle.msg:101
 msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
+"Qualcuno potrebbe dire che i tuoi capelli cremisi indicano una mancanza "
+"dell'anima. Ma quando sei di bell'aspetto, chi ne ha bisogno?"
 
 #: hfr00s03_game/appstyle.msg:100
 msgid "Style (Punk Girl)"
-msgstr ""
+msgstr "Stila (Teppista femmina)"
 
 #: hfr00s03_game/appstyle.msg:101
 msgid ""
@@ -69,15 +80,15 @@ msgstr ""
 
 #: hfr01s00_game/apprace.msg:100 hmr03s00_game/apprace.msg:100
 msgid "Race (Other)"
-msgstr ""
+msgstr "Razza (Altro)"
 
 #: hfr01s00_game/apprace.msg:101 hmr03s00_game/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr ""
+msgstr "Alternativo, non canoniche."
 
 #: hfr01s00_game/appstyle.msg:100
 msgid "Style (Unicorn)"
-msgstr ""
+msgstr "Stile (Unicorno)"
 
 #: hfr01s00_game/appstyle.msg:101
 msgid ""
@@ -91,6 +102,8 @@ msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
+"Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie "
+"di personaggi generici maschili predefiniti."
 
 #: hmr00s00_game/appstyle.msg:101
 msgid ""
@@ -98,10 +111,12 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
+"Sembri un altro tipo di personaggio generico. Tutto quanto ti appare "
+"generico e predefinito e non c'e' nulla di sbagliato in tutto questo."
 
 #: hmr00s01_game/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr ""
+msgstr "Stile (Capelli Lunghi)"
 
 #: hmr00s01_game/appstyle.msg:101
 msgid ""
@@ -109,10 +124,13 @@ msgid ""
 "fellow villagers look on in awe as the multifaceted strands of your glorious"
 " mane sparkle in the morning light."
 msgstr ""
+"Le tue lunghe ciocche rimbalzano sulle tue spalle mentre ti trascini avanti. "
+"I compaesani ti guardano intimoriti mentre i fili sfaccettati della tua "
+"gloriosa criniera brillano nella luce del mattino."
 
 #: hmr00s02_game/appstyle.msg:100 hmr01s00_game/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr ""
+msgstr "Stile (Rasato)"
 
 #: hmr00s02_game/appstyle.msg:101 hmr01s00_game/appstyle.msg:101
 msgid ""
@@ -120,18 +138,21 @@ msgid ""
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
 "head. Either way, you're rocking the chrome dome and proud of it."
 msgstr ""
+"Capelli? Chi ne ha bisogno? Sei l'esempio brillante senza senso di "
+"mascolinita'. O forse e' solo il sole del deserto che riflette sulla tua "
+"testa. In ogni caso, sei fiero della tua rockeggiante e cupola cromata."
 
 #: hmr01s00_game/apprace.msg:100
 msgid "Race (Black)"
-msgstr ""
+msgstr "Razza (Nero)"
 
 #: hmr01s00_game/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr ""
+msgstr "Sei il generico tipo nero. Generico ma nero."
 
 #: hmr02s00_game/apprace.msg:100
 msgid "Race (Indian)"
-msgstr ""
+msgstr "Razza (Indiana)"
 
 #: hmr02s00_game/apprace.msg:101
 msgid ""
@@ -141,17 +162,19 @@ msgstr ""
 
 #: hmr02s00_game/appstyle.msg:100
 msgid "Style (Dreadlocks)"
-msgstr ""
+msgstr "Stile (Rasta)"
 
 #: hmr02s00_game/appstyle.msg:101
 msgid ""
 "Your long tangled hair looks like it hasn't been washed for a long time. "
 "Perhaps, it is exactly so."
 msgstr ""
+"Le tue lunghe chiome sembrano che non siano mai stati lavate. Forse e' "
+"proprio cosi'."
 
 #: hmr03s00_game/appstyle.msg:100
 msgid "Style (Vault Boy)"
-msgstr ""
+msgstr "Stile (Vault Boy)"
 
 #: hmr03s00_game/appstyle.msg:101
 msgid ""
