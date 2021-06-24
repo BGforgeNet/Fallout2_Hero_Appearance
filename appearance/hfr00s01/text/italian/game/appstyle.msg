@@ -1,2 +1,2 @@
-{100}{}{Style (Blond Haired Female)}
-{101}{}{Your silken honey-blond tresses have always made you stand out among your tribe. The boys ogle, the girls scowl, and you wouldn't have it any other way.}
+{100}{}{Stile (Donna dai capelli biondi)}
+{101}{}{I tuoi capelli miele dorato hanno sempre spiccato nella tua tribu'. I ragazzi ti osservano, le ragazze ti odiano, e tutto questo ti piace.}

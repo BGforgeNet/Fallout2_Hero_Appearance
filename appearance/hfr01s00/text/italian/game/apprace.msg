@@ -1,2 +1,2 @@
-{100}{}{Race (Other)}
-{101}{}{Alternative, non-canon appearances.}
+{100}{}{Razza (Altro)}
+{101}{}{Alternativo, non canoniche.}

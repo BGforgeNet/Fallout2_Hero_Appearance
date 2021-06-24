@@ -1,2 +1,2 @@
-{100}{}{Style (Long Haired Dude)}
-{101}{}{Your long flowing locks bounce upon your shoulders as you jog on by. Your fellow villagers look on in awe as the multifaceted strands of your glorious mane sparkle in the morning light.}
+{100}{}{Stile (Capelli Lunghi)}
+{101}{}{Le tue lunghe ciocche rimbalzano sulle tue spalle mentre ti trascini avanti. I compaesani ti guardano intimoriti mentre i fili sfaccettati della tua gloriosa criniera brillano nella luce del mattino.}

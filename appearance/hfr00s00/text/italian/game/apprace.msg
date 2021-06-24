@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Female Character. You come from a long line of Generic Default Female Characters.}
+{100}{}{Razza (Predefinito)}
+{101}{}{Sei il generico personaggio femminile predefinito. Arrivi da una lunga serie di personaggi generici femminili predefiniti.}
