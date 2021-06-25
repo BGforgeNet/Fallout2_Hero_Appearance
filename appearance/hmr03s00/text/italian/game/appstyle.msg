@@ -1,2 +1,2 @@
 {100}{}{Stile (Vault Boy)}
-{101}{}{What a doll that baby. Well, just ducky. You right off wall poster from the Vault, the living embodiment of Vault-Boy.}
+{101}{}{Sembri un bambolotto. Bhe', molto basso. Sembri uscito da un poster del Vault, l'incarnazione vivente di Vault-Boy.}

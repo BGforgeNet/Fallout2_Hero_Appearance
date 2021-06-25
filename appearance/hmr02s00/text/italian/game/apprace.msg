@@ -1,2 +1,2 @@
 {100}{}{Razza (Indiana)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{101}{}{Il tuo viso logoro e la pelle di bronzo dimostrano che sei un vero infante delle terre devastate. Anche i tuoi amici tribali ti chiamano "Il Tribale".}

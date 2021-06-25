@@ -1,2 +1,2 @@
 {100}{}{Stile (Unicorno)}
-{101}{}{Littlepip, The Stable Dweller. Pip came from an alternative universe from a place called Equestria, or what remains of it after a series of megaspell detonations. Being a unicorn, Pip possesses the power of telekinesis.}
+{101}{}{Piccolo Pip, Lo Stabile Viaggiatore. Pip proviene da un universo alternativo da un posto chiamato Equestria, o quello che ne rimane dopo una serie di magie detonanti. Essere un unicorno, Pip possiede il potere della telecinesi.}

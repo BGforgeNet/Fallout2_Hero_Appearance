@@ -1,2 +1,3 @@
 {100}{}{Stila (Teppista femmina)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{101}{}{Soltanto te Indossi sopra la tua testa il verde serpente della fertilita', per dare alle donne la benedizione di avere un bambino. I tuoi capelli hanno avuto il taglio sciamanico per invocare
+il serpente. La vernice verde delle sacre radici sono state usate per dare vita a questo effige.}
