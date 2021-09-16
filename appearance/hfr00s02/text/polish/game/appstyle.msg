@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Styl (Ruda)}
+{101}{}{Zdaniem wielu osób, twoje szkar³atne w³osy oznaczaj¹, ¿e nie masz duszy. Patrz¹c z drugiej drugiej strony, po co Ci ona?}

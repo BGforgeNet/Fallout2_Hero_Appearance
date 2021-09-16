@@ -11,21 +11,23 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"X-Generator: bgforge_po v.1.1.0\n"
 
 #: hfr00s00_game/apprace.msg:100 hmr00s00_game/apprace.msg:100
 msgid "Race (Default)"
-msgstr ""
+msgstr "Rasa (Domyślna)"
 
 #: hfr00s00_game/apprace.msg:101
 msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
+"Jesteś Typową Domyślną Kobiecą Postacią. Wywodzisz się z długiej linii "
+"Typowych Domyślnych Kobiecych Postaci."
 
 #: hfr00s00_game/appstyle.msg:100 hmr00s00_game/appstyle.msg:100
 msgid "Style (Default)"
-msgstr ""
+msgstr "Styl (Domyślny)"
 
 #: hfr00s00_game/appstyle.msg:101
 msgid ""
@@ -33,10 +35,14 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
+"W przeciwieństwie do większości kobiet w twoim plemieniu, które noszą swoje "
+"długie włosy związane w kucyk, twoje czarne włosy są cięte w kwadrat i nie "
+"sięgają ramion. Co z tego że cię wyśmiewają i nazywają Wiadro-Głową za "
+"twoimi plecami?"
 
 #: hfr00s01_game/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr ""
+msgstr "Styl (Blondynka)"
 
 #: hfr00s01_game/appstyle.msg:101
 msgid ""
@@ -44,16 +50,21 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
+"\"Co robi blondynka na dachu...?\" Całe życie musiałaś słuchać kolejnych "
+"\"przezabawnych\" dowcipów na swój temat i nikt nie chciał uwierzyć, że "
+"kolor włosów nie określa twojej inteligencji..."
 
 #: hfr00s02_game/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr ""
+msgstr "Styl (Ruda)"
 
 #: hfr00s02_game/appstyle.msg:101
 msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
+"Zdaniem wielu osób, twoje szkarłatne włosy oznaczają, że nie masz duszy. "
+"Patrząc z drugiej drugiej strony, po co Ci ona?"
 
 #: hfr00s03_game/appstyle.msg:100
 msgid "Style (Punk Girl)"
@@ -91,6 +102,8 @@ msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
+"Jesteś Typowym Domyślnym Kolesiem. Wywodzisz się z długiej linii Typowych "
+"Domyślnych Kolesi."
 
 #: hmr00s00_game/appstyle.msg:101
 msgid ""
@@ -98,10 +111,12 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
+"Wyglądasz jak swego rodzaju Typowy Domyślny Koleś. Wszystko w twoim "
+"wyglądzie jest Typowe i Domyślne--to znaczy nie żeby było w tym coś złego."
 
 #: hmr00s01_game/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr ""
+msgstr "Styl (Długowłosy Koleś)"
 
 #: hmr00s01_game/appstyle.msg:101
 msgid ""
@@ -109,10 +124,13 @@ msgid ""
 "fellow villagers look on in awe as the multifaceted strands of your glorious"
 " mane sparkle in the morning light."
 msgstr ""
+"Kiedy biegniesz twoje długie kręcone włosy odbijają się od twych ramion. "
+"Koledzy z wioski patrzą z respektem kiedy wieloaspektowe kosmyki twojej "
+"wspaniałej grzywy połyskują w porannym świetle."
 
 #: hmr00s02_game/appstyle.msg:100 hmr01s00_game/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr ""
+msgstr "Styl (Łysy Koleś)"
 
 #: hmr00s02_game/appstyle.msg:101 hmr01s00_game/appstyle.msg:101
 msgid ""
@@ -120,6 +138,10 @@ msgid ""
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
 "head. Either way, you're rocking the chrome dome and proud of it."
 msgstr ""
+"Włosy? Kto ich potrzebuje? Jesteś świecącym przykładem prawdziwej "
+"nieokrzesanej męskości. A może, to tylko słońce pustkowi odbijające się od "
+"twojej glacy. W  każdym razie, dajesz czadu chromowaną kopułą i jesteś z "
+"tego dumny."
 
 #: hmr01s00_game/apprace.msg:100
 msgid "Race (Black)"

@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Dude. You come from a long line of Generic Default Dudes.}
+{100}{}{Rasa (Domyœlna)}
+{101}{}{Jesteœ Typowym Domyœlnym Kolesiem. Wywodzisz siê z d³ugiej linii Typowych Domyœlnych Kolesi.}
