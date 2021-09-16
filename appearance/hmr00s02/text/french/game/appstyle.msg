@@ -1,2 +1,2 @@
-{100}{}{Style (Bald Head Dude)}
-{101}{}{Hair? Who needs it? You're a shining beacon of no-nonsense rugged masculinity. Or maybe that's just the wasteland sun reflecting off your head. Either way, you're rocking the chrome dome and proud of it.}
+{100}{}{Style (Crane d'oeuf)}
+{101}{}{Des cheveux ? Qui en a besoin ? Tu es un phare brillant de la masculinité robuste et sans arrière-pensée. Ou peut-être que c'est juste le soleil du désert qui se reflète sur ta tête. Quoi qu'il en soit, tu portes le caillou nature et tu en es fier.}

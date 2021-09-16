@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Style (Rouquemoute)}
+{101}{}{Certains disent que tes cheveux cramoisis indiquent que tu n'as pas d'âme. Mais quand on est aussi belle, qui en a besoin ?}

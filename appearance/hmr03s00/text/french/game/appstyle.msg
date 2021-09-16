@@ -1,2 +1,2 @@
-{100}{}{Style (Vault Boy)}
-{101}{}{What a doll that baby. Well, just ducky. You right off wall poster from the Vault, the living embodiment of Vault-Boy.}
+{100}{}{Style (Habitant de l'Abri)}
+{101}{}{Quelle poupée ce bébé. Enfin, juste un canard. Tu es la mascotte de l'Abri, l'incarnation vivante de l'Habitant de l'Abri.}

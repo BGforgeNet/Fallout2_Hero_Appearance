@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Female Character. You come from a long line of Generic Default Female Characters.}
+{100}{}{Race (Classique)}
+{101}{}{Tu es le personnage féminin commun. Tu viens d'une longue lignée de personnages féminins communs et sans histoires.}

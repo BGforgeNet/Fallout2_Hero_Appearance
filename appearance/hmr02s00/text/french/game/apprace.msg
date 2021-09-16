@@ -1,2 +1,2 @@
-{100}{}{Race (Indian)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{Race (Amérindien)}
+{101}{}{Ton visage buriné et ta peau bronzée montrent que tu es un véritable enfant du désert. Même tes amis de la tribu vous appellent "Le Tribal".}

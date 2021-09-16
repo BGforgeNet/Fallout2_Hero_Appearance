@@ -1,2 +1,2 @@
-{100}{}{Style (Punk Girl)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{100}{}{Style (Punkette)}
+{101}{}{Toi seule porte le serpent vert de la fertilité sur ta tête, afin de donner aux autres femmes de la tribu la bénédiction d'une grande fertilité. Tes cheveux ont été coupés lors d'un rituel chamanique pour invoquer le serpent. La teinture verte de la racine sacrée a été utilisée pour donner vie à cette effigie.}
