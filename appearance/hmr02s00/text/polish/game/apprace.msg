@@ -1,2 +1,2 @@
-{100}{}{Race (Indian)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{Rasa (Indianin)}
+{101}{}{Twoje zwietrza³a twarz i br¹zowa skóra pokazuj¹, ¿e jesteœ autentycznym dzieckiem Pustkowi. Nawet Twoi wspó³plemieñcy nazywaj¹ Ciê "Plemiennym".}

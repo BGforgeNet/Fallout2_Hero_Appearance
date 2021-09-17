@@ -1,2 +1,2 @@
-{100}{}{Style (Bald Head Dude)}
-{101}{}{Hair? Who needs it? You're a shining beacon of no-nonsense rugged masculinity. Or maybe that's just the wasteland sun reflecting off your head. Either way, you're rocking the chrome dome and proud of it.}
+{100}{}{Styl (£ysy Koleœ)}
+{101}{}{W³osy? Kto ich potrzebuje? Jesteœ œwiec¹cym przyk³adem prawdziwej nieokrzesanej mêskoœci. A mo¿e, to tylko s³oñce pustkowi odbijaj¹ce siê od twojej glacy. W ka¿dym razie, dajesz czadu chromowan¹ kopu³¹ i jesteœ z tego dumny.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Punk Girl)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{100}{}{Styl (Chuliganka)}
+{101}{}{Tylko ty nosisz na g³owie zielonego wê¿a p³odnoœci, aby daæ innym wspó³plemieñcom b³ogos³awieñstwo p³odnoœci. Twoje w³osy zosta³y obciête w szamanistyczny rytuale, na podobieñstwo wê¿a. Zielony barwnik ze œwiêtego korzenia zosta³ u¿yty, by nadaæ temu wizerunkowi ¿ycie.}
