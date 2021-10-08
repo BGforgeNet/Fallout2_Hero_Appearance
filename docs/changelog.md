@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.5
+Completed Polish, French translations.
+
 ## Version 2.4
 Fixed [bald dude leather armor sledgehammer animation](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/issues/2).
 
