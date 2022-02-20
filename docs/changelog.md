@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.6
+Updated Portugues translation.
+
 ## Version 2.5
 Completed Polish, French translations.
 
