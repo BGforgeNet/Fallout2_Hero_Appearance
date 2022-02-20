@@ -9,11 +9,15 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install packages
+        # The Github's Ubuntu images since 20211122.1 are broken
+        # https://github.com/actions/virtual-environments/issues/4589
         run: |
+          set -xeu -o pipefail
           sudo dpkg --add-architecture i386
-          sudo apt -qq update >/dev/null 2>&1
-          sudo apt-get install -o=Dpkg::Use-Pty=0 -y p7zip wine-stable wine32 >/dev/null 2>&1
-          wineboot >/dev/null 2>&1
+          sudo apt -qq update
+          sudo apt install -y --allow-downgrades libpcre2-8-0=10.34-7
+          sudo apt-get install -o=Dpkg::Use-Pty=0 -y p7zip wine-stable wine32
+          wineboot
 
       - name: Package
         run: ./extra/package.sh
