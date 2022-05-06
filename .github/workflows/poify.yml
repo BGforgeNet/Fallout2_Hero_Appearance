@@ -2,7 +2,8 @@ name: Poify/Unpoify
 on:
   push:
     paths:
-      - "language/**.msg" # tra_dir
+      - "language/**"
+      - "appearance/*/text/**"
 
 jobs:
   build:
