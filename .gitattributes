@@ -1,0 +1,12 @@
+appearance/*/text/french/**.msg     working-tree-encoding=cp1252    git-encoding=cp1252
+appearance/*/text/german/**.msg     working-tree-encoding=cp1252    git-encoding=cp1252
+appearance/*/text/hungarian/**.msg  working-tree-encoding=cp1250    git-encoding=cp1250
+appearance/*/text/italian/**.msg    working-tree-encoding=cp1252    git-encoding=cp1252
+appearance/*/text/korean/**.msg     working-tree-encoding=cp949     git-encoding=cp949
+appearance/*/text/polish/**.msg     working-tree-encoding=cp1250    git-encoding=cp1250
+appearance/*/text/portuguese/**.msg working-tree-encoding=cp1252    git-encoding=cp1252
+appearance/*/text/russian/**.msg    working-tree-encoding=cp1251    git-encoding=cp1251
+appearance/*/text/spanish/**.msg    working-tree-encoding=cp1252    git-encoding=cp1252
+appearance/*/text/schinese/**.msg   working-tree-encoding=cp936     git-encoding=cp936
+appearance/*/text/tchinese/**.msg   working-tree-encoding=cp950     git-encoding=cp950
+appearance/*/text/ukrainian/**.msg  working-tree-encoding=cp1251    git-encoding=cp1251
