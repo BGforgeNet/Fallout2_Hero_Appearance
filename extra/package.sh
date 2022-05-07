@@ -32,8 +32,8 @@ cd "$appearance_dir"
 languages=$(ls $trans_dir | grep -v "^po$")
 for a in $(ls); do
   for lang in $languages; do
-    mkdir -p text/$lang/game
-    cp $trans_dir/$lang/$a/* text/$lang/game/
+    mkdir -p $a/text/$lang/game
+    cp $trans_dir/$lang/$a/* $a/text/$lang/game/
   done
   dat="$a.dat"
   cd "$a"
