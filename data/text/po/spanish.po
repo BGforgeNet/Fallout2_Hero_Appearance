@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"PO-Revision-Date: 2021-03-28 14:12+0000\n"
+"Last-Translator: Handless Design <Dante_schmidt@outlook.com>\n"
+"Language-Team: Spanish <https://tra.bgforge.net/projects/fallout/hero-appearance/es/>\n"
+"Language: spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+
+#: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
+msgid "Race (Default)"
+msgstr "Raza (Por Defecto)"
+
+#: hfr00s00/apprace.msg:101
+msgid ""
+"You are the Generic Default Female Character. You come from a long line of "
+"Generic Default Female Characters."
+msgstr ""
+"Usted es el Personaje Femenino Genérico Predeterminado. Usted viene de una "
+"larga línea de Personajes Femeninos Genéricos Predeterminados."
+
+#: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+msgid "Style (Default)"
+msgstr "Estilo (Por Defecto)"
+
+#: hfr00s00/appstyle.msg:101
+msgid ""
+"Unlike most of your fellow tribeswomen, who wear their long hair in a "
+"ponytail, your black hair is square-cut and shoulder length. So what if they"
+" snicker and call you Bucket-Head behind your back?"
+msgstr ""
+"A diferencia de la mayoría de tus compañeras mujeres tribales, que llevan su"
+" largo cabello en una cola de caballo, tu cabello negro está cortado en "
+"cuadrados y hasta los hombros. Entonces, ¿qué si ellos se ríen y te llaman "
+"Cabeza de Balde a tus espaldas?"
+
+#: hfr00s01/appstyle.msg:100
+msgid "Style (Blond Haired Female)"
+msgstr "Estilo (Mujer Rubia)"
+
+#: hfr00s01/appstyle.msg:101
+msgid ""
+"Your silken honey-blond tresses have always made you stand out among your "
+"tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
+"way."
+msgstr ""
+"Tus sedosos cabellos rubios miel siempre te han hecho destacar entre tu "
+"tribu. Los chicos de te comen con los ojos, las chicas fruncen el ceño, y tú"
+" no lo tendrías de ninguna otra manera."
+
+#: hfr00s02/appstyle.msg:100
+msgid "Style (Red Haired Female)"
+msgstr "Estilo (Mujer Pelirroja)"
+
+#: hfr00s02/appstyle.msg:101
+msgid ""
+"Some say your crimson hair indicates that you lack a soul. But when you look"
+" this good, who needs one?"
+msgstr ""
+"Algunos dicen que tu cabello carmesí indica que no tienes alma. Pero cuando "
+"te ves tan bien, ¿quién necesita una?"
+
+#: hfr00s03/appstyle.msg:100
+msgid "Style (Punk Girl)"
+msgstr "Estilo (Chica Punk)"
+
+#: hfr00s03/appstyle.msg:101
+msgid ""
+"You alone wear the green serpent of fertility upon your head, in order to "
+"give the other tribeswomen the blessing of new children. Your hair was cut "
+"in shamanic ritual to invoke the serpent. The green dye of holy root was "
+"used to give this effigy life."
+msgstr ""
+"Tú solo llevas sobre tu cabeza la serpiente verde de la fertilidad, con el "
+"fin de dar a las otras mujeres de la tribu la bendición de nuevos hijos. Su "
+"cabello fue cortado en rituales chamánicos para invocar la serpiente. El "
+"tinte verde de la raíz sagrada se utilizó para dar vida a esta efigie."
+
+#: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
+msgid "Race (Other)"
+msgstr "Raza (Otra)"
+
+#: hfr01s00/apprace.msg:101 hmr03s00/apprace.msg:101
+msgid "Alternative, non-canon appearances."
+msgstr "Apariencias alternativas no canónicas."
+
+#: hfr01s00/appstyle.msg:100
+msgid "Style (Unicorn)"
+msgstr "Estilo (Unicornio)"
+
+#: hfr01s00/appstyle.msg:101
+msgid ""
+"Littlepip, The Stable Dweller. Pip came from an alternative universe from a "
+"place called Equestria, or what remains of it after a series of megaspell "
+"detonations. Being a unicorn, Pip possesses the power of telekinesis."
+msgstr ""
+"Pequeño Pip, El Morador del Establo. Pip llegó desde de un universo "
+"alternativo, de un lugar llamado Equestria, o lo que queda de ella después "
+"de una serie de detonaciones de megahechizos. Siendo un unicornio, Pip posee"
+" el poder de la telequinesis."
+
+#: hmr00s00/apprace.msg:101
+msgid ""
+"You are the Generic Default Dude. You come from a long line of Generic "
+"Default Dudes."
+msgstr ""
+"Eres es el Hombre Genérico Predeterminado. Vienes de una larga línea de "
+"Hombres Genéricos Predeterminados."
+
+#: hmr00s00/appstyle.msg:101
+msgid ""
+"You look like some kind of Generic Default Dude. Everything about your "
+"appearance is Generic and Default--not that there's anything wrong with "
+"that."
+msgstr ""
+"Te ves como algún tipo de Hombre Genérico Predeterminado. Todo acerca de tu "
+"apariencia es Genérica y por Defecto ... no es que haya nada malo con eso."
+
+#: hmr00s01/appstyle.msg:100
+msgid "Style (Long Haired Dude)"
+msgstr "Estilo (Hombre de Pelo Largo)"
+
+#: hmr00s01/appstyle.msg:101
+msgid ""
+"Your long flowing locks bounce upon your shoulders as you jog on by. Your "
+"fellow villagers look on in awe as the multifaceted strands of your glorious"
+" mane sparkle in the morning light."
+msgstr ""
+"Tus largos mechones que fluyen rebotan sobre tus hombros mientras corres. "
+"Tus compañeros del pueblo miran con asombro cómo las hebras multifacéticas "
+"de tu gloriosa melena brillan a la luz de la mañana."
+
+#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+msgid "Style (Bald Head Dude)"
+msgstr "Estilo (Hombre Calvo)"
+
+#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+msgid ""
+"Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
+"masculinity. Or maybe that's just the wasteland sun reflecting off your "
+"head. Either way, you're rocking the chrome dome and proud of it."
+msgstr ""
+"Cabello? ¿Quién lo necesita? Eres un faro brillante de masculinidad robusta "
+"y sensata. O tal vez es sólo el sol del yermo reflejándose en tu cabeza. De "
+"cualquier manera, estás sacudiendo la cúpula cromada orgulloso de ello."
+
+#: hmr01s00/apprace.msg:100
+msgid "Race (Black)"
+msgstr "Raza (Negro)"
+
+#: hmr01s00/apprace.msg:101
+msgid "You are the Generic Black Dude. But Generic. But Black."
+msgstr "Eres el Hombre Negro Genérico. Genérico. Pero Negro."
+
+#: hmr02s00/apprace.msg:100
+msgid "Race (Indian)"
+msgstr "Raza (Hindú)"
+
+#: hmr02s00/apprace.msg:101
+msgid ""
+"Your weathered face and bronze skin show that you are a true child of the "
+"Wasteland. Even your tribal friends call you \"The Tribal\"."
+msgstr ""
+"Tu rostro curtido y tu piel bronceada muestran que eres un verdadero hijo "
+"del yermo. Incluso tus amigos tribales te llaman \"El Tribal\"."
+
+#: hmr02s00/appstyle.msg:100
+msgid "Style (Dreadlocks)"
+msgstr "Estilo (Rastas)"
+
+#: hmr02s00/appstyle.msg:101
+msgid ""
+"Your long tangled hair looks like it hasn't been washed for a long time. "
+"Perhaps, it is exactly so."
+msgstr ""
+"Tu cabello largo y enredado parece que no se ha lavado en mucho tiempo. "
+"Quizás sea exactamente así."
+
+#: hmr03s00/appstyle.msg:100
+msgid "Style (Vault Boy)"
+msgstr "Estilo (Vault Boy)"
+
+#: hmr03s00/appstyle.msg:101
+msgid ""
+"What a doll that baby. Well, just ducky. You right off wall poster from the "
+"Vault, the living embodiment of Vault-Boy."
+msgstr ""
+"Que muñeca ese bebé. Bueno, sólo lindo. Tienes un póster de pared de The "
+"Vault, la encarnación viviente de Vault-Boy."
+
+msgctxt "female"
+msgid ""
+"Littlepip, The Stable Dweller. Pip came from an alternative universe from a "
+"place called Equestria, or what remains of it after a series of megaspell "
+"detonations. Being a unicorn, Pip possesses the power of telekinesis."
+msgstr ""
+"Pequeña Pip, La Moradora del Establo. Pip llegó desde de un universo "
+"alternativo, de un lugar llamado Equestria, o lo que queda de ella después "
+"de una serie de detonaciones de megahechizos. Siendo un unicornio, Pip posee"
+" el poder de la telequinesis."
+
+msgctxt "female"
+msgid ""
+"What a doll that baby. Well, just ducky. You right off wall poster from the "
+"Vault, the living embodiment of Vault-Boy."
+msgstr ""
+"Que muñeca esa bebé. Bueno, sólo linda. Tienes un póster de pared de The "
+"Vault, la encarnación viviente de Vault-Boy."
+
+msgctxt "female"
+msgid ""
+"You alone wear the green serpent of fertility upon your head, in order to "
+"give the other tribeswomen the blessing of new children. Your hair was cut "
+"in shamanic ritual to invoke the serpent. The green dye of holy root was "
+"used to give this effigy life."
+msgstr ""
+"Tú sola llevas sobre tu cabeza la serpiente verde de la fertilidad, con el "
+"fin de dar a las otras mujeres de la tribu la bendición de nuevos hijos. Tu "
+"cabello fue cortado en rituales chamánicos para invocar la serpiente. El "
+"tinte verde de la raíz sagrada se utilizó para dar vida a esta efigie."
