@@ -1,2 +1,2 @@
-{100}{}{Rasa (Domyúlna)}
-{101}{}{Jesteú Typowym Domyúlnym Kolesiem. Wywodzisz siÍ z d≥ugiej linii Typowych Domyúlnych Kolesi.}
+{100}{}{Rasa (Domy≈õlna)}
+{101}{}{Jeste≈õ Typowym Domy≈õlnym Kolesiem. Wywodzisz siƒô z d≈Çugiej linii Typowych Domy≈õlnych Kolesi.}

@@ -1,2 +1,2 @@
-{100}{}{Raça (Outra)}
-{101}{}{Aparências alternativas,  não-padrão.}
+{100}{}{RaÃ§a (Outra)}
+{101}{}{AparÃªncias alternativas,  nÃ£o-padrÃ£o.}

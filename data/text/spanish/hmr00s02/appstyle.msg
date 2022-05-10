@@ -1,2 +1,2 @@
 {100}{}{Estilo (Hombre Calvo)}
-{101}{}{Cabello? ¿Quién lo necesita? Eres un faro brillante de masculinidad robusta y sensata. O tal vez es sólo el sol del yermo reflejándose en tu cabeza. De cualquier manera, estás sacudiendo la cúpula cromada orgulloso de ello.}
+{101}{}{Cabello? Â¿QuiÃ©n lo necesita? Eres un faro brillante de masculinidad robusta y sensata. O tal vez es sÃ³lo el sol del yermo reflejÃ¡ndose en tu cabeza. De cualquier manera, estÃ¡s sacudiendo la cÃºpula cromada orgulloso de ello.}

@@ -1,2 +1,2 @@
-{100}{}{Stil (Punk-Göre)}
-{101}{}{Du allein trägst die grüne Fruchtbarkeitsschlange auf deinem Kopf, die den anderen Stammesfrauen den Segen neuer Kinder zukommen lässt. Unter Verwendung des grünen Farbstoffs der heiligen Wurzel wurde dein Haar im schamanischem Ritual geschnitten, um die Schlange zu beschwören.}
+{100}{}{Stil (Punk-GÃ¶re)}
+{101}{}{Du allein trÃ¤gst die grÃ¼ne Fruchtbarkeitsschlange auf deinem Kopf, die den anderen Stammesfrauen den Segen neuer Kinder zukommen lÃ¤sst. Unter Verwendung des grÃ¼nen Farbstoffs der heiligen Wurzel wurde dein Haar im schamanischem Ritual geschnitten, um die Schlange zu beschwÃ¶ren.}

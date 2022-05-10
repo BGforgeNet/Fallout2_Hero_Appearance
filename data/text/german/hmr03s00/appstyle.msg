@@ -1,2 +1,2 @@
 {100}{}{Stil (Vault Boy)}
-{101}{}{Was für eine Puppe. Einfach entzückend. Du könnstes direkt einem Wandplakat aus dem Bunker enstprungen sein. Die lebende Verkörperung des Vault-Boy!}
+{101}{}{Was fÃ¼r eine Puppe. Einfach entzÃ¼ckend. Du kÃ¶nnstes direkt einem Wandplakat aus dem Bunker enstprungen sein. Die lebende VerkÃ¶rperung des Vault-Boy!}

@@ -1,2 +1,2 @@
 {100}{}{Estilo (Vault Boy)}
-{101}{}{Que muñeca ese bebé. Bueno, sólo lindo. Tienes un póster de pared de The Vault, la encarnación viviente de Vault-Boy.}
+{101}{}{Que muÃ±eca ese bebÃ©. Bueno, sÃ³lo lindo. Tienes un pÃ³ster de pared de The Vault, la encarnaciÃ³n viviente de Vault-Boy.}

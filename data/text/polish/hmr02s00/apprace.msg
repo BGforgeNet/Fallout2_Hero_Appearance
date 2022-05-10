@@ -1,2 +1,2 @@
 {100}{}{Rasa (Indianin)}
-{101}{}{Twoje zwietrza³a twarz i br¹zowa skóra pokazuj¹, ¿e jesteœ autentycznym dzieckiem Pustkowi. Nawet Twoi wspó³plemieñcy nazywaj¹ Ciê "Plemiennym".}
+{101}{}{Twoje zwietrzaÅ‚a twarz i brÄ…zowa skÃ³ra pokazujÄ…, Å¼e jesteÅ› autentycznym dzieckiem Pustkowi. Nawet Twoi wspÃ³Å‚plemieÅ„cy nazywajÄ… CiÄ™ "Plemiennym".}

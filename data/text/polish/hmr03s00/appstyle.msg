@@ -1,2 +1,2 @@
 {100}{}{Styl (Vault Boy)}
-{101}{}{Ale s³odziak z tego szkraba. Po prostu œliczny. Wygl¹dasz jak wyciêty z jednego z plakatów z Krypty, ¿ywe wcielenie Vault-Boy'a.}
+{101}{}{Ale sÅ‚odziak z tego szkraba. Po prostu Å›liczny. WyglÄ…dasz jak wyciÄ™ty z jednego z plakatÃ³w z Krypty, Å¼ywe wcielenie Vault-Boy'a.}

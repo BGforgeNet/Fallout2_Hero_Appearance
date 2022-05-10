@@ -1,2 +1,2 @@
-{100}{}{Estilo (Padrão)}
-{101}{}{Você parece algum tipo de Cara Genérico Padrão. Tudo sobre sua aparência é Genérico e Padrão -- não que haja qualquer coisa errada com isso.}
+{100}{}{Estilo (PadrÃ£o)}
+{101}{}{VocÃª parece algum tipo de Cara GenÃ©rico PadrÃ£o. Tudo sobre sua aparÃªncia Ã© GenÃ©rico e PadrÃ£o -- nÃ£o que haja qualquer coisa errada com isso.}

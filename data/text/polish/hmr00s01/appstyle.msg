@@ -1,2 +1,2 @@
-{100}{}{Styl (D³ugow³osy Koleœ)}
-{101}{}{Kiedy biegniesz twoje d³ugie krêcone w³osy odbijaj¹ siê od twych ramion. Koledzy z wioski patrz¹ z respektem kiedy wieloaspektowe kosmyki twojej wspania³ej grzywy po³yskuj¹ w porannym œwietle.}
+{100}{}{Styl (DÅ‚ugowÅ‚osy KoleÅ›)}
+{101}{}{Kiedy biegniesz twoje dÅ‚ugie krÄ™cone wÅ‚osy odbijajÄ… siÄ™ od twych ramion. Koledzy z wioski patrzÄ… z respektem kiedy wieloaspektowe kosmyki twojej wspaniaÅ‚ej grzywy poÅ‚yskujÄ… w porannym Å›wietle.}

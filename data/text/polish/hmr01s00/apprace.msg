@@ -1,2 +1,2 @@
-{100}{}{Rasa (CzarnoskÛry)}
-{101}{}{Jesteú typowym czarnoskÛrym kolesiem. Ale Typowym. Ale CzarnoskÛrym.}
+{100}{}{Rasa (Czarnosk√≥ry)}
+{101}{}{Jeste≈õ typowym czarnosk√≥rym kolesiem. Ale Typowym. Ale Czarnosk√≥rym.}

@@ -1,2 +1,2 @@
 {100}{}{Raza (Negro)}
-{101}{}{Eres el Hombre Negro Genérico. Genérico. Pero Negro.}
+{101}{}{Eres el Hombre Negro GenÃ©rico. GenÃ©rico. Pero Negro.}

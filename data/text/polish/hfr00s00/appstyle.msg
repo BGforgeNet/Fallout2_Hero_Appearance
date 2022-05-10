@@ -1,2 +1,2 @@
-{100}{}{Styl (Domyœlny)}
-{101}{}{W przeciwieñstwie do wiêkszoœci kobiet w twoim plemieniu, które nosz¹ swoje d³ugie w³osy zwi¹zane w kucyk, twoje czarne w³osy s¹ ciête w kwadrat i nie siêgaj¹ ramion. Co z tego ¿e ciê wyœmiewaj¹ i nazywaj¹ Wiadro-G³ow¹ za twoimi plecami?}
+{100}{}{Styl (DomyÅ›lny)}
+{101}{}{W przeciwieÅ„stwie do wiÄ™kszoÅ›ci kobiet w twoim plemieniu, ktÃ³re noszÄ… swoje dÅ‚ugie wÅ‚osy zwiÄ…zane w kucyk, twoje czarne wÅ‚osy sÄ… ciÄ™te w kwadrat i nie siÄ™gajÄ… ramion. Co z tego Å¼e ciÄ™ wyÅ›miewajÄ… i nazywajÄ… Wiadro-GÅ‚owÄ… za twoimi plecami?}

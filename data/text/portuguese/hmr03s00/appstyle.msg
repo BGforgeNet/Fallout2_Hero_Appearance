@@ -1,2 +1,2 @@
 {100}{}{Estilo (Garoto da Vault)}
-{101}{}{Que boneco esse, baby. Bem, apenas satisfatório. Seu post na parede direita da Vault, a encarnação viva do Garoto da Vault.}
+{101}{}{Que boneco esse, baby. Bem, apenas satisfatÃ³rio. Seu post na parede direita da Vault, a encarnaÃ§Ã£o viva do Garoto da Vault.}

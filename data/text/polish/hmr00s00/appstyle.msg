@@ -1,2 +1,2 @@
-{100}{}{Styl (Domyúlny)}
-{101}{}{Wyglπdasz jak swego rodzaju Typowy Domyúlny Koleú. Wszystko w twoim wyglπdzie jest Typowe i Domyúlne--to znaczy nie øeby by≥o w tym coú z≥ego.}
+{100}{}{Styl (Domy≈õlny)}
+{101}{}{WyglƒÖdasz jak swego rodzaju Typowy Domy≈õlny Kole≈õ. Wszystko w twoim wyglƒÖdzie jest Typowe i Domy≈õlne--to znaczy nie ≈ºeby by≈Ço w tym co≈õ z≈Çego.}

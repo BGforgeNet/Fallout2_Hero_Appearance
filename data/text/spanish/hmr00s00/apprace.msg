@@ -1,2 +1,2 @@
 {100}{}{Raza (Por Defecto)}
-{101}{}{Eres es el Hombre Genérico Predeterminado. Vienes de una larga línea de Hombres Genéricos Predeterminados.}
+{101}{}{Eres es el Hombre GenÃ©rico Predeterminado. Vienes de una larga lÃ­nea de Hombres GenÃ©ricos Predeterminados.}

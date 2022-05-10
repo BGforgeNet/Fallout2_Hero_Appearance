@@ -1,2 +1,2 @@
-{100}{}{Race (Amérindien)}
-{101}{}{Ton visage buriné et ta peau bronzée montrent que tu es un véritable enfant du désert. Même tes amis de la tribu t'appellent "Le Tribal".}
+{100}{}{Race (AmÃ©rindien)}
+{101}{}{Ton visage burinÃ© et ta peau bronzÃ©e montrent que tu es un vÃ©ritable enfant du dÃ©sert. MÃªme tes amis de la tribu t'appellent "Le Tribal".}

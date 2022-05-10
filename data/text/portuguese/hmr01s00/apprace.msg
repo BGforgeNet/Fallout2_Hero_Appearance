@@ -1,2 +1,2 @@
-{100}{}{Raça (Negro)}
-{101}{}{Você é o Cara Negro Genérico. Porém Genérico. Porém Negro.}
+{100}{}{RaÃ§a (Negro)}
+{101}{}{VocÃª Ã© o Cara Negro GenÃ©rico. PorÃ©m GenÃ©rico. PorÃ©m Negro.}

@@ -1,2 +1,2 @@
-{100}{}{Rasa (Domyœlna)}
-{101}{}{Jesteœ Typow¹ Domyœln¹ Kobiec¹ Postaci¹. Wywodzisz siê z d³ugiej linii Typowych Domyœlnych Kobiecych Postaci.}
+{100}{}{Rasa (DomyÅ›lna)}
+{101}{}{JesteÅ› TypowÄ… DomyÅ›lnÄ… KobiecÄ… PostaciÄ…. Wywodzisz siÄ™ z dÅ‚ugiej linii Typowych DomyÅ›lnych Kobiecych Postaci.}

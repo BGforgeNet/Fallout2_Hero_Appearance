@@ -1,2 +1,2 @@
 {100}{}{Raza (Por Defecto)}
-{101}{}{Usted es el Personaje Femenino Genérico Predeterminado. Usted viene de una larga línea de Personajes Femeninos Genéricos Predeterminados.}
+{101}{}{Usted es el Personaje Femenino GenÃ©rico Predeterminado. Usted viene de una larga lÃ­nea de Personajes Femeninos GenÃ©ricos Predeterminados.}

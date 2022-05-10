@@ -1,2 +1,2 @@
-{100}{}{Raça (Padrão)}
-{101}{}{Você é o Cara Genérico Padrão. Você veio de uma longa linhagem de Caras Genéricos Padrão.}
+{100}{}{RaÃ§a (PadrÃ£o)}
+{101}{}{VocÃª Ã© o Cara GenÃ©rico PadrÃ£o. VocÃª veio de uma longa linhagem de Caras GenÃ©ricos PadrÃ£o.}

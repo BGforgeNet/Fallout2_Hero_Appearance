@@ -1,2 +1,2 @@
 {100}{}{Style (Licorne)}
-{101}{}{Pti'Pip, l'habitant de l'étable. Pip vient d'un univers alternatif d'un endroit appelé Chevalorion, ou ce qu'il en reste après une série de détonations de méga-sorts. Étant une licorne, Pip possède le pouvoir de la télékinésie.}
+{101}{}{Pti'Pip, l'habitant de l'Ã©table. Pip vient d'un univers alternatif d'un endroit appelÃ© Chevalorion, ou ce qu'il en reste aprÃ¨s une sÃ©rie de dÃ©tonations de mÃ©ga-sorts. Ã‰tant une licorne, Pip possÃ¨de le pouvoir de la tÃ©lÃ©kinÃ©sie.}

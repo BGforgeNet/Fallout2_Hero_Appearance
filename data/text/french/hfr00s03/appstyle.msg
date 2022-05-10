@@ -1,2 +1,2 @@
 {100}{}{Style (Punkette)}
-{101}{}{Toi seule porte le serpent vert de la fertilité sur ta tête, afin de donner aux autres femmes de la tribu la bénédiction d'une grande fertilité. Tes cheveux ont été coupés lors d'un rituel chamanique pour invoquer le serpent. La teinture verte de la racine sacrée a été utilisée pour donner vie à cette effigie.}
+{101}{}{Toi seule porte le serpent vert de la fertilitÃ© sur ta tÃªte, afin de donner aux autres femmes de la tribu la bÃ©nÃ©diction d'une grande fertilitÃ©. Tes cheveux ont Ã©tÃ© coupÃ©s lors d'un rituel chamanique pour invoquer le serpent. La teinture verte de la racine sacrÃ©e a Ã©tÃ© utilisÃ©e pour donner vie Ã  cette effigie.}

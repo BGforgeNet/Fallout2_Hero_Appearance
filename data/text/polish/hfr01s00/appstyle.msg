@@ -1,2 +1,2 @@
-{100}{}{Styl (Jednoroøec)}
-{101}{}{Ma≥oroøek, Przybysz ze Stajni. Roøek przyby≥ z alternatywnej rzeczywistoúci, z miejsca zwanego Equestria, albo raczej pozosta≥oúci jakie zosta≥y z tamtej krainy po serii detonujπcych mega-zaklÍÊ. Bycie jednoroøcem sprawia, øe Roøek posiada moc telekinezy.}
+{100}{}{Styl (Jednoro≈ºec)}
+{101}{}{Ma≈Çoro≈ºek, Przybysz ze Stajni. Ro≈ºek przyby≈Ç z alternatywnej rzeczywisto≈õci, z miejsca zwanego Equestria, albo raczej pozosta≈Ço≈õci jakie zosta≈Çy z tamtej krainy po serii detonujƒÖcych mega-zaklƒôƒá. Bycie jednoro≈ºcem sprawia, ≈ºe Ro≈ºek posiada moc telekinezy.}

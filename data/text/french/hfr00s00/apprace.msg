@@ -1,2 +1,2 @@
 {100}{}{Race (Classique)}
-{101}{}{Tu es le personnage féminin commun. Tu viens d'une longue lignée de personnages féminins communs et sans histoires.}
+{101}{}{Tu es le personnage fÃ©minin commun. Tu viens d'une longue lignÃ©e de personnages fÃ©minins communs et sans histoires.}

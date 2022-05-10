@@ -1,2 +1,2 @@
 {100}{}{Styl (Blondynka)}
-{101}{}{"Co robi blondynka na dachu...?" Ca³e ¿ycie musia³aœ s³uchaæ kolejnych "przezabawnych" dowcipów na swój temat i nikt nie chcia³ uwierzyæ, ¿e kolor w³osów nie okreœla twojej inteligencji...}
+{101}{}{"Co robi blondynka na dachu...?" CaÅ‚e Å¼ycie musiaÅ‚aÅ› sÅ‚uchaÄ‡ kolejnych "przezabawnych" dowcipÃ³w na swÃ³j temat i nikt nie chciaÅ‚ uwierzyÄ‡, Å¼e kolor wÅ‚osÃ³w nie okreÅ›la twojej inteligencji...}

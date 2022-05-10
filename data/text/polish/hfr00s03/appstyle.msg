@@ -1,2 +1,2 @@
 {100}{}{Styl (Chuliganka)}
-{101}{}{Tylko ty nosisz na g³owie zielonego wê¿a p³odnoœci, aby daæ innym wspó³plemieñcom b³ogos³awieñstwo p³odnoœci. Twoje w³osy zosta³y obciête w szamanistyczny rytuale, na podobieñstwo wê¿a. Zielony barwnik ze œwiêtego korzenia zosta³ u¿yty, by nadaæ temu wizerunkowi ¿ycie.}
+{101}{}{Tylko ty nosisz na gÅ‚owie zielonego wÄ™Å¼a pÅ‚odnoÅ›ci, aby daÄ‡ innym wspÃ³Å‚plemieÅ„com bÅ‚ogosÅ‚awieÅ„stwo pÅ‚odnoÅ›ci. Twoje wÅ‚osy zostaÅ‚y obciÄ™te w szamanistyczny rytuale, na podobieÅ„stwo wÄ™Å¼a. Zielony barwnik ze Å›wiÄ™tego korzenia zostaÅ‚ uÅ¼yty, by nadaÄ‡ temu wizerunkowi Å¼ycie.}
