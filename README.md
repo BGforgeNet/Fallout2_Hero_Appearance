@@ -1,6 +1,6 @@
 # Hero Appearance mod for Fallout 2
 
-[![Build status](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/actions?query=workflow%3Abuild)
+[![Build status](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/workflows/package/badge.svg)](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/actions?query=workflow%3Apackage)
 [![Translation status](https://hive.bgforge.net/widgets/fallout/-/hero-appearance/svg-badge.svg)](https://hive.bgforge.net/projects/fallout/hero-appearance/)
 [![Patreon](https://img.shields.io/badge/Patreon-donate-FF424D?logo=Patreon&labelColor=141518)](https://www.patreon.com/BGforge)
 
