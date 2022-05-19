@@ -1,3 +1,4 @@
+data/text/czech/**/*.msg      working-tree-encoding=cp1250
 data/text/french/**/*.msg     working-tree-encoding=cp1252
 data/text/german/**/*.msg     working-tree-encoding=cp1252
 data/text/hungarian/**/*.msg  working-tree-encoding=cp1250
