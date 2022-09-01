@@ -6,16 +6,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: devopsx/gha-focal-i386-fix@master
       - uses: actions/checkout@v2
 
       - name: Install packages
-        # The Github's Ubuntu images since 20211122.1 are broken
-        # https://github.com/actions/virtual-environments/issues/4589
         run: |
           set -xeu -o pipefail
           sudo dpkg --add-architecture i386
           sudo apt-get -qq update
-          sudo apt-get -qq install -o=Dpkg::Use-Pty=0 -y --allow-downgrades libpcre2-8-0=10.34-7
           sudo apt-get -qq install -o=Dpkg::Use-Pty=0 -y p7zip wine-stable wine32
           wineboot
 
