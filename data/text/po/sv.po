@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: 2022-09-07 11:30+0000\n"
+"PO-Revision-Date: 2022-09-07 12:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
 msgid "Style (Default)"
-msgstr ""
+msgstr "Stil (Grundinställning)"
 
 #: hfr00s00/appstyle.msg:101
 msgid ""
@@ -34,10 +34,13 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
+"Till skillnad från de flesta av andra kvinnorna i din stam, som har sitt "
+"långa hår i en hästsvans, så är ditt svarta hår klippt som en fyrkant och är "
+"i axellängd. Vem bryr sig om de kallar dig Hinkskalle bakom din rygg?"
 
 #: hfr00s01/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr ""
+msgstr "Stil (Blondhårig Kvinna)"
 
 #: hfr00s01/appstyle.msg:101
 msgid ""
@@ -58,7 +61,7 @@ msgstr ""
 
 #: hfr00s03/appstyle.msg:100
 msgid "Style (Punk Girl)"
-msgstr ""
+msgstr "Stil (Punktjej)"
 
 #: hfr00s03/appstyle.msg:101
 msgid ""
@@ -70,7 +73,7 @@ msgstr ""
 
 #: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
 msgid "Race (Other)"
-msgstr ""
+msgstr "Ras (Annan)"
 
 #: hfr01s00/apprace.msg:101 hmr03s00/apprace.msg:101
 msgid "Alternative, non-canon appearances."
