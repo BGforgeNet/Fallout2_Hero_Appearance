@@ -1,0 +1,159 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: bgforge_po v.1.1.0\n"
+
+#: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
+msgid "Race (Default)"
+msgstr ""
+
+#: hfr00s00/apprace.msg:101
+msgid ""
+"You are the Generic Default Female Character. You come from a long line of "
+"Generic Default Female Characters."
+msgstr ""
+
+#: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+msgid "Style (Default)"
+msgstr ""
+
+#: hfr00s00/appstyle.msg:101
+msgid ""
+"Unlike most of your fellow tribeswomen, who wear their long hair in a "
+"ponytail, your black hair is square-cut and shoulder length. So what if they"
+" snicker and call you Bucket-Head behind your back?"
+msgstr ""
+
+#: hfr00s01/appstyle.msg:100
+msgid "Style (Blond Haired Female)"
+msgstr ""
+
+#: hfr00s01/appstyle.msg:101
+msgid ""
+"Your silken honey-blond tresses have always made you stand out among your "
+"tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
+"way."
+msgstr ""
+
+#: hfr00s02/appstyle.msg:100
+msgid "Style (Red Haired Female)"
+msgstr ""
+
+#: hfr00s02/appstyle.msg:101
+msgid ""
+"Some say your crimson hair indicates that you lack a soul. But when you look"
+" this good, who needs one?"
+msgstr ""
+
+#: hfr00s03/appstyle.msg:100
+msgid "Style (Punk Girl)"
+msgstr ""
+
+#: hfr00s03/appstyle.msg:101
+msgid ""
+"You alone wear the green serpent of fertility upon your head, in order to "
+"give the other tribeswomen the blessing of new children. Your hair was cut "
+"in shamanic ritual to invoke the serpent. The green dye of holy root was "
+"used to give this effigy life."
+msgstr ""
+
+#: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
+msgid "Race (Other)"
+msgstr ""
+
+#: hfr01s00/apprace.msg:101 hmr03s00/apprace.msg:101
+msgid "Alternative, non-canon appearances."
+msgstr ""
+
+#: hfr01s00/appstyle.msg:100
+msgid "Style (Unicorn)"
+msgstr ""
+
+#: hfr01s00/appstyle.msg:101
+msgid ""
+"Littlepip, The Stable Dweller. Pip came from an alternative universe from a "
+"place called Equestria, or what remains of it after a series of megaspell "
+"detonations. Being a unicorn, Pip possesses the power of telekinesis."
+msgstr ""
+
+#: hmr00s00/apprace.msg:101
+msgid ""
+"You are the Generic Default Dude. You come from a long line of Generic "
+"Default Dudes."
+msgstr ""
+
+#: hmr00s00/appstyle.msg:101
+msgid ""
+"You look like some kind of Generic Default Dude. Everything about your "
+"appearance is Generic and Default--not that there's anything wrong with "
+"that."
+msgstr ""
+
+#: hmr00s01/appstyle.msg:100
+msgid "Style (Long Haired Dude)"
+msgstr ""
+
+#: hmr00s01/appstyle.msg:101
+msgid ""
+"Your long flowing locks bounce upon your shoulders as you jog on by. Your "
+"fellow villagers look on in awe as the multifaceted strands of your glorious"
+" mane sparkle in the morning light."
+msgstr ""
+
+#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+msgid "Style (Bald Head Dude)"
+msgstr ""
+
+#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+msgid ""
+"Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
+"masculinity. Or maybe that's just the wasteland sun reflecting off your "
+"head. Either way, you're rocking the chrome dome and proud of it."
+msgstr ""
+
+#: hmr01s00/apprace.msg:100
+msgid "Race (Black)"
+msgstr ""
+
+#: hmr01s00/apprace.msg:101
+msgid "You are the Generic Black Dude. But Generic. But Black."
+msgstr ""
+
+#: hmr02s00/apprace.msg:100
+msgid "Race (Indian)"
+msgstr ""
+
+#: hmr02s00/apprace.msg:101
+msgid ""
+"Your weathered face and bronze skin show that you are a true child of the "
+"Wasteland. Even your tribal friends call you \"The Tribal\"."
+msgstr ""
+
+#: hmr02s00/appstyle.msg:100
+msgid "Style (Dreadlocks)"
+msgstr ""
+
+#: hmr02s00/appstyle.msg:101
+msgid ""
+"Your long tangled hair looks like it hasn't been washed for a long time. "
+"Perhaps, it is exactly so."
+msgstr ""
+
+#: hmr03s00/appstyle.msg:100
+msgid "Style (Vault Boy)"
+msgstr ""
+
+#: hmr03s00/appstyle.msg:101
+msgid ""
+"What a doll that baby. Well, just ducky. You right off wall poster from the "
+"Vault, the living embodiment of Vault-Boy."
+msgstr ""
