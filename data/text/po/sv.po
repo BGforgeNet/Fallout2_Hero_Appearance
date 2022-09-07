@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: 2022-09-07 12:30+0000\n"
+"PO-Revision-Date: 2022-09-07 16:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -23,6 +23,8 @@ msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
+"Du är den generiska kvinnliga standardkaraktären. Du kommer från en lång rad "
+"generiska kvinnliga standardkaraktärer."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
 msgid "Style (Default)"
@@ -48,16 +50,21 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
+"Dina silkeslena honungsblonda lockar har alltid fått dig att sticka ut bland "
+"din stam. Pojkarna stirrar på dig, tjejerna skrattar och du skulle inte "
+"vilja att det var på något annat sätt."
 
 #: hfr00s02/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr ""
+msgstr "Stil (Rödhårig Kvinna)"
 
 #: hfr00s02/appstyle.msg:101
 msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
+"Vissa säger att ditt röda hår tyder på att du saknar en själ. Men när du ser "
+"så här bra ut, vem behöver då en?"
 
 #: hfr00s03/appstyle.msg:100
 msgid "Style (Punk Girl)"
@@ -70,6 +77,10 @@ msgid ""
 "in shamanic ritual to invoke the serpent. The green dye of holy root was "
 "used to give this effigy life."
 msgstr ""
+"Endast du bär fruktbarhetens gröna orm på ditt huvud för att ge de andra "
+"stamkvinnorna välsignelsen av nya barn. Ditt hår klipptes i shamanistisk "
+"ritual för att åberopa ormen. Det gröna färgämnet från helig rot användes "
+"för att ge denna avbild liv."
 
 #: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
 msgid "Race (Other)"
@@ -77,11 +88,11 @@ msgstr "Ras (Annan)"
 
 #: hfr01s00/apprace.msg:101 hmr03s00/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr ""
+msgstr "Alternativa, icke-kanoniska utseenden."
 
 #: hfr01s00/appstyle.msg:100
 msgid "Style (Unicorn)"
-msgstr ""
+msgstr "Stil (Enhörning)"
 
 #: hfr01s00/appstyle.msg:101
 msgid ""
@@ -95,6 +106,8 @@ msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
+"Du är den generiska standardsnubben. Du kommer från en lång rad generiska "
+"standardsnubbar."
 
 #: hmr00s00/appstyle.msg:101
 msgid ""
