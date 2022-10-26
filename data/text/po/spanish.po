@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: 2022-05-19 17:03+0000\n"
+"PO-Revision-Date: 2022-10-26 14:02+0000\n"
 "Last-Translator: Magus <magus@bgforge.net>\n"
 "Language-Team: Spanish <https://tra.bgforge.net/projects/fallout/"
 "hero-appearance/es/>\n"
@@ -158,7 +158,7 @@ msgstr "Raza (Negro)"
 
 #: hmr01s00/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Eres el Hombre Negro Genérico. Genérico. Pero Negro."
+msgstr "Eres el Hombre Negro Genérico. Pero Genérico. Pero Negro."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
