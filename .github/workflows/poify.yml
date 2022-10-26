@@ -2,8 +2,7 @@ name: Poify/Unpoify
 on:
   push:
     paths:
-      - "language/**"
-      - "appearance/*/text/**"
+      - "data/*/text/**"
 
 jobs:
   build:
