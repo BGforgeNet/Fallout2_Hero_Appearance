@@ -1,0 +1,11 @@
+- hfr00s00: female default
+- hfr00s01: female blond
+- hfr00s02: female red hair
+- hfr00s03: punk girl
+- hfr01s00: unicorn (Little Pip, non-canon)
+- hmr00s00: male default
+- hmr00s01: male long hair
+- hmr00s02: male bald
+- hmr01s00: black dude
+- hmr02s00: indian/tribal
+- hmr03s00: vault boy (non-canon)
