@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: 2023-08-23 19:27+0000\n"
+"PO-Revision-Date: 2023-08-24 15:27+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/"
 "hero-appearance/de/>\n"
@@ -24,7 +24,7 @@ msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
-"Du bist der typische weibliche Standardcharakter. Du enstammst einer langen "
+"Du bist der typische weibliche Standardcharakter. Du entstammst einer langen "
 "Reihe von typischen weiblichen Standardcharaktern."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
@@ -82,7 +82,7 @@ msgstr ""
 "Du allein trägst die grüne Fruchtbarkeitsschlange auf deinem Kopf, die den "
 "anderen Stammesfrauen den Segen neuer Kinder zukommen lässt. Unter "
 "Verwendung des grünen Farbstoffs der heiligen Wurzel wurde dein Haar im "
-"schamanischem Ritual geschnitten, um die Schlange zu beschwören."
+"schamanischen Ritual geschnitten, um die Schlange zu beschwören."
 
 #: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
 msgid "Race (Other)"
@@ -112,7 +112,7 @@ msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
-"Du bist der generische Standard-Kerl. Du stammst aus einer langen Reihe von "
+"Du bist der generische Standard-Kerl. Du entstammst einer langen Reihe von "
 "generischen Standard-Kerlen."
 
 #: hmr00s00/appstyle.msg:101
@@ -141,7 +141,7 @@ msgstr ""
 
 #: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr "Stil (Klatzköpfiger Kerl)"
+msgstr "Stil (Glatzköpfiger Kerl)"
 
 #: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
@@ -156,7 +156,7 @@ msgstr ""
 
 #: hmr01s00/apprace.msg:100
 msgid "Race (Black)"
-msgstr "Rasse (schwarz)"
+msgstr "Rasse (Schwarz)"
 
 #: hmr01s00/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
@@ -171,9 +171,9 @@ msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
-"Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres"
-" Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich \"Der "
-"Stammtyp\"."
+"Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres "
+"Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich \"Der "
+"Stammestyp\"."
 
 #: hmr02s00/appstyle.msg:100
 msgid "Style (Dreadlocks)"
