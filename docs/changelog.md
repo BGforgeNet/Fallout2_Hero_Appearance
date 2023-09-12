@@ -6,7 +6,7 @@
 - Updated German translation.
 
 ## Version 2.6
-Updated Portugues translation.
+Updated Portuguese translation.
 
 ## Version 2.5
 Completed Polish, French translations.
