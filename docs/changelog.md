@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.8
+Updated German translation.
+
 ## Version 2.7
 - Black dude set is updated, using fixed animations by Lexx.
 - Added Swedish translation.
