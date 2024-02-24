@@ -1,2 +1,2 @@
 {100}{}{Faj (Alap)}
-{101}{}{You are the Generic Default Dude. You come from a long line of Generic Default Dudes.}
+{101}{}{Te egy alapvető sablon srác vagy. Az alapvető sablon srácok hosszó sorából származol.}

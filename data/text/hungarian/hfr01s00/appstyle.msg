@@ -1,2 +1,2 @@
-{100}{}{Style (Unicorn)}
-{101}{}{Littlepip, The Stable Dweller. Pip came from an alternative universe from a place called Equestria, or what remains of it after a series of megaspell detonations. Being a unicorn, Pip possesses the power of telekinesis.}
+{100}{}{Stílus (Unikornis)}
+{101}{}{Kicsimag az Istállólakó. Mag egy alternatívuniverzumból érkezett melynek neve Equestria, avagy ami megmaradt belőle az óriásvarázslatok robbanás sorozatát követően. Unikornisként Mag a telekinésis képességével bír.}

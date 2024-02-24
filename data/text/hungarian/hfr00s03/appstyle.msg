@@ -1,2 +1,2 @@
-{100}{}{Style (Punk Girl)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{100}{}{Stílus (Punk lány)}
+{101}{}{Te egyedül viseled a termékenység züld kígyúját a fejeden annak érdekében how a törzs asszonyaira gyermekáldást hozz. A hajad egy sámán szertartás keretében került levágásra megidézendő a szent kígyút. A zöld festék a szent gyökérből volt használva hogy életet leheljen ebbe a képmásba.}

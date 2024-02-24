@@ -1,2 +1,2 @@
-{100}{}{Style (Red Haired Female)}
-{101}{}{Some say your crimson hair indicates that you lack a soul. But when you look this good, who needs one?}
+{100}{}{Stílus (Vörös hajú nő)}
+{101}{}{Néhányan úgy tartják mivel karmazsinvörös a hajad nincs is lelked. De kinek is kellene az, ha ilyen remekül nézel ki?}

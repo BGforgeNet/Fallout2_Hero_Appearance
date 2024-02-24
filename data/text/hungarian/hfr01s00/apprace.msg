@@ -1,2 +1,2 @@
-{100}{}{Race (Other)}
-{101}{}{Alternative, non-canon appearances.}
+{100}{}{Faj (Egyéb)}
+{101}{}{Eltérő, nem lore specifikus.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Bald Head Dude)}
-{101}{}{Hair? Who needs it? You're a shining beacon of no-nonsense rugged masculinity. Or maybe that's just the wasteland sun reflecting off your head. Either way, you're rocking the chrome dome and proud of it.}
+{100}{}{Stílus (Kopasz srác)}
+{101}{}{Haj? Kinek kell az? A fénylő világítótorony vagy ki nemet mond az értelmetlen férfiasság prűd megjelenési formáira. Vagy csak kopasz fejed veri vissza a pusztai nap fényét? Bárhogy is a króm-kupoládra büszke vagy.}

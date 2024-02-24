@@ -1,2 +1,2 @@
-{100}{}{Race (Black)}
-{101}{}{You are the Generic Black Dude. But Generic. But Black.}
+{100}{}{Faj (Fekete)}
+{101}{}{Te vagy a sablonos fekete srác. Sablonos, de fekete.}

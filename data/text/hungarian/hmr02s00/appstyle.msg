@@ -1,2 +1,2 @@
-{100}{}{Style (Dreadlocks)}
-{101}{}{Your long tangled hair looks like it hasn't been washed for a long time. Perhaps, it is exactly so.}
+{100}{}{Stílus (Raszta)}
+{101}{}{Hosszó hajad épp úgy fest mint ami nem volt megmosva hosszó-hosszó ideje. Talán ez pontosan így van.}
