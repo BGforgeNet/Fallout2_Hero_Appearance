@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Female Character. You come from a long line of Generic Default Female Characters.}
+{100}{}{Rasa (výchozí)}
+{101}{}{Jste typická výchozí ženská postava. Pocházíte z dlouhé řady typických ženských postav.}

@@ -1,2 +1,2 @@
-{100}{}{Style (Punk Girl)}
-{101}{}{You alone wear the green serpent of fertility upon your head, in order to give the other tribeswomen the blessing of new children. Your hair was cut in shamanic ritual to invoke the serpent. The green dye of holy root was used to give this effigy life.}
+{100}{}{Styl (punk)}
+{101}{}{Ty sama nosíš na hlavě zeleného hada plodnosti, abys ostatním ženám kmene požehnala k narození nových dětí. Tvé vlasy byly ostříhány při šamanském rituálu, který hada přivolával. K oživení této podobizny bylo použito zelené barvivo z posvátného kořene.}

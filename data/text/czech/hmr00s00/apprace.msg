@@ -1,2 +1,2 @@
-{100}{}{Race (Default)}
-{101}{}{You are the Generic Default Dude. You come from a long line of Generic Default Dudes.}
+{100}{}{Rasa (výchozí)}
+{101}{}{Jsi typický výchozí týpek. Pocházíte z dlouhé řady typických výchozích týpků.}

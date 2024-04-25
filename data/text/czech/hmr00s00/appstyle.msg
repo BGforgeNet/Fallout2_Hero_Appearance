@@ -1,2 +1,2 @@
-{100}{}{Style (Default)}
-{101}{}{You look like some kind of Generic Default Dude. Everything about your appearance is Generic and Default--not that there's anything wrong with that.}
+{100}{}{Styl (výchozí)}
+{101}{}{Vypadáš jako nějaký Typický Výchozí Chlápek. Všechno na tvém vzhledu je typické a běžné - ne že by na tom bylo něco špatného.}

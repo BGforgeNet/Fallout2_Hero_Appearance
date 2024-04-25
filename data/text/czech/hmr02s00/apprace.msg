@@ -1,2 +1,2 @@
-{100}{}{Race (Indian)}
-{101}{}{Your weathered face and bronze skin show that you are a true child of the Wasteland. Even your tribal friends call you "The Tribal".}
+{100}{}{Rasa (indián)}
+{101}{}{Tvá ošlehaná tvář a bronzově zbarvená kůže svědčí o tom, že jsi pravé dítě Pustiny. Dokonce i tví domorodí přátelé ti říkají " Domorodec".}

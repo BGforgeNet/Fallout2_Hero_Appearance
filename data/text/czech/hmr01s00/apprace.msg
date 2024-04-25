@@ -1,2 +1,2 @@
-{100}{}{Race (Black)}
-{101}{}{You are the Generic Black Dude. But Generic. But Black.}
+{100}{}{Rasa (černoch)}
+{101}{}{Jsi typický černoch. Jak typický tak černý.}

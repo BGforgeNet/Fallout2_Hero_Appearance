@@ -1,2 +1,2 @@
-{100}{}{Style (Vault Boy)}
-{101}{}{What a doll that baby. Well, just ducky. You right off wall poster from the Vault, the living embodiment of Vault-Boy.}
+{100}{}{Styl (obyvatel Vaultu)}
+{101}{}{To je ale panáček. Takový hezounek. Jako by jsi vyšel z plakátu z Vaultu, živoucí ztělesnění chlapíka z Vaultu.}
