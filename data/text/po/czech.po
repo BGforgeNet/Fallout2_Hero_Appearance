@@ -4,28 +4,31 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2024-04-25 18:58+0000\n"
+"Last-Translator: Josef Lodyha <ok1ced@nagano.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
 msgid "Race (Default)"
-msgstr ""
+msgstr "Rasa (výchozí)"
 
 #: hfr00s00/apprace.msg:101
 msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
+"Jste typická výchozí ženská postava. Pocházíte z dlouhé řady typických "
+"ženských postav."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
 msgid "Style (Default)"
-msgstr ""
+msgstr "Styl (výchozí)"
 
 #: hfr00s00/appstyle.msg:101
 msgid ""
@@ -33,10 +36,13 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
+"Na rozdíl od většiny tvých soukmenovkyň, které nosí dlouhé vlasy sepnuté do "
+"culíku, máš černé vlasy sestříhané do čtverce a dlouhé po ramena. Co na tom, "
+"že se ti za zády posmívají a říkají ti Kýblová hlava?"
 
 #: hfr00s01/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
-msgstr ""
+msgstr "Styl (plavovláska)"
 
 #: hfr00s01/appstyle.msg:101
 msgid ""
@@ -44,20 +50,24 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
+"Díky svým hedvábným medově plavým vlasům jsi vždycky vyčnívala ze svého "
+"kmene. Kluci se na tebe culí, holky se mračí a ty bys to nechtěla jinak."
 
 #: hfr00s02/appstyle.msg:100
 msgid "Style (Red Haired Female)"
-msgstr ""
+msgstr "Styl (zrzka)"
 
 #: hfr00s02/appstyle.msg:101
 msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
+"Někteří říkají, že tvé zrzavé vlasy naznačují, že nemáš duši. Ale když "
+"vypadáš tak krásně, kdo by ji potřeboval?"
 
 #: hfr00s03/appstyle.msg:100
 msgid "Style (Punk Girl)"
-msgstr ""
+msgstr "Styl (punk)"
 
 #: hfr00s03/appstyle.msg:101
 msgid ""
@@ -66,18 +76,22 @@ msgid ""
 "in shamanic ritual to invoke the serpent. The green dye of holy root was "
 "used to give this effigy life."
 msgstr ""
+"Ty sama nosíš na hlavě zeleného hada plodnosti, abys ostatním ženám kmene "
+"požehnala k narození nových dětí. Tvé vlasy byly ostříhány při šamanském "
+"rituálu, který hada přivolával. K oživení této podobizny bylo použito zelené "
+"barvivo z posvátného kořene."
 
 #: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
 msgid "Race (Other)"
-msgstr ""
+msgstr "Rasa (jiná)"
 
 #: hfr01s00/apprace.msg:101 hmr03s00/apprace.msg:101
 msgid "Alternative, non-canon appearances."
-msgstr ""
+msgstr "Alternativní, nekanonická podoba."
 
 #: hfr01s00/appstyle.msg:100
 msgid "Style (Unicorn)"
-msgstr ""
+msgstr "Styl (jednorožec)"
 
 #: hfr01s00/appstyle.msg:101
 msgid ""
@@ -85,12 +99,16 @@ msgid ""
 "place called Equestria, or what remains of it after a series of megaspell "
 "detonations. Being a unicorn, Pip possesses the power of telekinesis."
 msgstr ""
+"Littlepip, obyvatel stáje. Pip pochází z alternativního vesmíru z místa "
+"zvaného Equestria, nebo spíše z toho, co z něj zbylo po sérii detonací "
+"megačar. Jelikož je Pip jednorožec, má schopnost telekineze."
 
 #: hmr00s00/apprace.msg:101
 msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
+"Jsi typický výchozí týpek. Pocházíte z dlouhé řady typických výchozích týpků."
 
 #: hmr00s00/appstyle.msg:101
 msgid ""
@@ -98,10 +116,12 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
+"Vypadáš jako nějaký Typický Výchozí Chlápek. Všechno na tvém vzhledu je "
+"typické a běžné - ne že by na tom bylo něco špatného."
 
 #: hmr00s01/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr ""
+msgstr "Styl (dlouhovlasý týpek)"
 
 #: hmr00s01/appstyle.msg:101
 msgid ""
@@ -109,10 +129,13 @@ msgid ""
 "fellow villagers look on in awe as the multifaceted strands of your glorious"
 " mane sparkle in the morning light."
 msgstr ""
+"Když běžíš kolem, tvé dlouhé prameny se ti pohupují na ramenou. Vaši "
+"soukmenovci s obdivem sledují, jak se v ranním světle třpytí mnohotvárné "
+"prameny tvé nádherné hřívy."
 
 #: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr ""
+msgstr "Styl (plešoun)"
 
 #: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
@@ -120,41 +143,50 @@ msgid ""
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
 "head. Either way, you're rocking the chrome dome and proud of it."
 msgstr ""
+"Vlasy? Kdo je potřebuje? Jsi zářivým majákem drsné mužnosti. Nebo se od tvé "
+"hlavy možná jen odráží slunce pustiny. Ať tak či onak, máš chromovanou "
+"kopuli a jsi na ni hrdý."
 
 #: hmr01s00/apprace.msg:100
 msgid "Race (Black)"
-msgstr ""
+msgstr "Rasa (černoch)"
 
 #: hmr01s00/apprace.msg:101
 msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr ""
+msgstr "Jsi typický černoch. Jak typický tak černý."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
-msgstr ""
+msgstr "Rasa (indián)"
 
 #: hmr02s00/apprace.msg:101
 msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
+"Tvá ošlehaná tvář a bronzově zbarvená kůže svědčí o tom, že jsi pravé dítě "
+"Pustiny. Dokonce i tví domorodí přátelé ti říkají \" Domorodec\"."
 
 #: hmr02s00/appstyle.msg:100
 msgid "Style (Dreadlocks)"
-msgstr ""
+msgstr "Styl (dredy)"
 
 #: hmr02s00/appstyle.msg:101
 msgid ""
 "Your long tangled hair looks like it hasn't been washed for a long time. "
 "Perhaps, it is exactly so."
 msgstr ""
+"Tvé dlouhé zapletené vlasy vypadají, jako by nebyly dlouho umyté. Možná je "
+"to přesně tak."
 
 #: hmr03s00/appstyle.msg:100
 msgid "Style (Vault Boy)"
-msgstr ""
+msgstr "Styl (obyvatel Vaultu)"
 
 #: hmr03s00/appstyle.msg:101
 msgid ""
 "What a doll that baby. Well, just ducky. You right off wall poster from the "
 "Vault, the living embodiment of Vault-Boy."
 msgstr ""
+"To je ale panáček. Takový hezounek. Jako by jsi vyšel z plakátu z Vaultu, "
+"živoucí ztělesnění chlapíka z Vaultu."
