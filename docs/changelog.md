@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 2.8
+
+- Updated Czech translation.
+- Completed Hungarian translation.
+
 ## Version 2.7
 
 - Black dude set is updated, using fixed animations by Lexx.
