@@ -48,4 +48,3 @@ Go to [github issues](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/iss
 ### Additional info
 
 [**Changelog**](docs/changelog.md)
-
