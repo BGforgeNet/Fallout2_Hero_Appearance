@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: ShellCheck
+        uses: ludeeus/action-shellcheck@master
+
       - name: Install Wine
         uses: devopsx/gha-ubuntu-i386-fix@master
 
