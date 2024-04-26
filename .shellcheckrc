@@ -1,0 +1,4 @@
+# We want to break on non-alphanumeric filenames
+disable=SC2010,SC2045
+# Sed replace is more readable
+disable=SC2001

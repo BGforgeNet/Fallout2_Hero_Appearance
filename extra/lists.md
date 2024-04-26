@@ -2,7 +2,6 @@
 
 When adding a new set, filenames of new animations must exactly match the original ones (`male_frm.list`, `female_frm.list`). Any difference (using `.fr[0-5]` instead of `.frm` or vice versa) will lead to not recognizing these new files. See [#1](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/issues/1) for details.
 
-
 At this moment, certain frames are missing in male sets and Punk Girl one:
 
 ```diff
