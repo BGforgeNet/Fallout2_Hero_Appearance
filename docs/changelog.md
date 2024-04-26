@@ -2,8 +2,7 @@
 
 ## Version 2.8
 
-- Updated Czech translation.
-- Completed Hungarian translation.
+Completed Czech, Hungarian translations.
 
 ## Version 2.7
 
