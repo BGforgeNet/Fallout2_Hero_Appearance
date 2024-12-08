@@ -22,7 +22,7 @@ This a collection of additional **player** character models for Fallout 2 and ga
 
 ## Installation
 
-- Ensure that [sfall](https://github.com/phobos2077/sfall) is installed and `EnableHeroAppearanceMod=1` is set in `ddraw.ini`.
+- Ensure that [sfall](https://github.com/sfall-team/sfall) is installed and `EnableHeroAppearanceMod=1` is set in `ddraw.ini`.
 - After that, simply download the [latest release](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/releases/latest) and extract it into game directory.
 
 ## Contents
