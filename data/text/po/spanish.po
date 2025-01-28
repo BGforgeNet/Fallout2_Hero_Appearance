@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-07-20:11+0000\n"
-"PO-Revision-Date: 2025-01-28 00:40+0000\n"
+"PO-Revision-Date: 2025-01-28 01:40+0000\n"
 "Last-Translator: Genzek Spanish <alejzuzu@gmail.com>\n"
 "Language-Team: Spanish <https://tra.bgforge.net/projects/fallout/"
 "hero-appearance/es/>\n"
@@ -121,12 +121,12 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
-"Te ves como algún tipo de Hombre Genérico Predeterminado. Todo acerca de tu "
-"apariencia es Genérico y Por Defecto... no es que haya nada malo con eso."
+"Te ves como el típico Hombre Genérico Predeterminado. Todo sobre tu "
+"apariencia es genérico y por defecto... no es que haya nada malo con eso."
 
 #: hmr00s01/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
-msgstr "Estilo (Hombre de Pelo Largo)"
+msgstr "Estilo (Pelo Largo)"
 
 #: hmr00s01/appstyle.msg:101
 msgid ""
@@ -134,13 +134,13 @@ msgid ""
 "fellow villagers look on in awe as the multifaceted strands of your glorious"
 " mane sparkle in the morning light."
 msgstr ""
-"Tus largos mechones que fluyen rebotan sobre tus hombros mientras corres. "
-"Tus compañeros del pueblo miran con asombro cómo las hebras multifacéticas "
-"de tu gloriosa melena brillan a la luz de la mañana."
+"Tus largas y suaves melenas rebotan sobre tus hombros mientras corres. Tus "
+"compañeros del pueblo te miran asombrados, viendo cómo los múltiples "
+"mechones de tu gloriosa melena brillan a la luz de la mañana."
 
 #: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
-msgstr "Estilo (Hombre Calvo)"
+msgstr "Estilo (Calvo)"
 
 #: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
@@ -148,9 +148,9 @@ msgid ""
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
 "head. Either way, you're rocking the chrome dome and proud of it."
 msgstr ""
-"Cabello? ¿Quién lo necesita? Eres un faro brillante de masculinidad robusta "
-"y sensata. O tal vez es sólo el sol del yermo reflejándose en tu cabeza. De "
-"cualquier manera, estás sacudiendo la cúpula cromada orgulloso de ello."
+"¿Cabello? ¿Quién lo necesita? Eres un brillante faro de masculinidad ruda y "
+"sin rodeos. O quizás sea solo el sol del yermo reflejándose en tu cabeza. De "
+"cualquier manera, llevas esa calva con orgullo."
 
 #: hmr01s00/apprace.msg:100
 msgid "Race (Black)"
@@ -162,7 +162,7 @@ msgstr "Eres el Hombre Negro Genérico. Pero Genérico. Pero Negro."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
-msgstr "Raza (Hindú)"
+msgstr "Raza (Nativo)"
 
 #: hmr02s00/apprace.msg:101
 msgid ""
@@ -170,7 +170,7 @@ msgid ""
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
 "Tu rostro curtido y tu piel bronceada muestran que eres un verdadero hijo "
-"del yermo. Incluso tus amigos tribales te llaman \"El Tribal\"."
+"del Yermo. Incluso tus amigos tribales te llaman \"El Tribal\"."
 
 #: hmr02s00/appstyle.msg:100
 msgid "Style (Dreadlocks)"
@@ -181,8 +181,8 @@ msgid ""
 "Your long tangled hair looks like it hasn't been washed for a long time. "
 "Perhaps, it is exactly so."
 msgstr ""
-"Tu cabello largo y enredado parece que no se ha lavado en mucho tiempo. "
-"Quizás sea exactamente así."
+"Tu cabello largo enredado parece que no se ha lavado en mucho tiempo. Tal "
+"vez, de hecho, así sea."
 
 #: hmr03s00/appstyle.msg:100
 msgid "Style (Vault Boy)"
@@ -193,5 +193,5 @@ msgid ""
 "What a doll that baby. Well, just ducky. You right off wall poster from the "
 "Vault, the living embodiment of Vault-Boy."
 msgstr ""
-"Que muñeca ese bebé. Bueno, sólo lindo. Tienes un póster de pared de The "
-"Vault, la encarnación viviente de Vault-Boy."
+"Qué monada ese bebé. Pues, simplemente encantador. Pareces sacado "
+"directamente de un póster del Refugio, la encarnación viviente de Vault-Boy."
