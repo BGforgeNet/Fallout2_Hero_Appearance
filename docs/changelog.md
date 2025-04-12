@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.9
+
+Translation updates.
+
 ## Version 2.8
 
 Completed Czech, Hungarian translations.
