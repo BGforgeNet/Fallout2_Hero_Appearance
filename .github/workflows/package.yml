@@ -31,11 +31,13 @@ jobs:
         with:
           name: hero_appearance.zip
           path: hero_appearance*.zip
+          if-no-files-found: error
 
       - name: Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: hero_appearance*.zip
+          fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
