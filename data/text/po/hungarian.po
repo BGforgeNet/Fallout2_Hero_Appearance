@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2024-02-24 22:28+0000\n"
 "Last-Translator: Rob <sj.babilon5@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,6 +27,7 @@ msgstr ""
 "hosszú sorából származol."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Stílus (Alap)"
 
@@ -36,8 +37,8 @@ msgid ""
 "ponytail, your black hair is square-cut and shoulder length. So what if they"
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
-"Ellentétben a többi törzsi nővel akik hosszú hajukat kontyban hordják - a te "
-"hajad szabélyosra van vágva és a válladig ér. Szóval mi van akkor ha ők "
+"Ellentétben a többi törzsi nővel akik hosszú hajukat kontyban hordják - a te"
+" hajad szabélyosra van vágva és a válladig ér. Szóval mi van akkor ha ők "
 "Vödör-Fejűnek hívnak a hátad mögött?"
 
 #: hfr00s01/appstyle.msg:100
@@ -51,8 +52,8 @@ msgid ""
 "way."
 msgstr ""
 "Selymes mézszőke fürtjeid mindig kiemeltek téged a tömegből a törzseden "
-"belül. A fiúk szerelms pillantásokat vetettek rád és kacsintgattak, a lányok "
-"mogorva pillantásokkal illettek bármit is tettél."
+"belül. A fiúk szerelms pillantásokat vetettek rád és kacsintgattak, a lányok"
+" mogorva pillantásokkal illettek bármit is tettél."
 
 #: hfr00s02/appstyle.msg:100
 msgid "Style (Red Haired Female)"
@@ -79,8 +80,8 @@ msgid ""
 msgstr ""
 "Te egyedül viseled a termékenység züld kígyúját a fejeden annak érdekében "
 "how a törzs asszonyaira gyermekáldást hozz. A hajad egy sámán szertartás "
-"keretében került levágásra megidézendő a szent kígyút. A zöld festék a szent "
-"gyökérből volt használva hogy életet leheljen ebbe a képmásba."
+"keretében került levágásra megidézendő a szent kígyút. A zöld festék a szent"
+" gyökérből volt használva hogy életet leheljen ebbe a képmásba."
 
 #: hfr01s00/apprace.msg:100 hmr03s00/apprace.msg:100
 msgid "Race (Other)"
@@ -112,7 +113,7 @@ msgstr ""
 "Te egy alapvető sablon srác vagy. Az alapvető sablon srácok hosszó sorából "
 "származol."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -134,11 +135,11 @@ msgstr ""
 "Ahogy hosszú szálldosó hajad a válladra hullik a reggeli futás közben a "
 "falud lakói ámulattal bámulnak a reggeli napfényben szikrázó sörényedre."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Stílus (Kopasz srác)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -153,8 +154,16 @@ msgid "Race (Black)"
 msgstr "Faj (Fekete)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Te vagy a sablonos fekete srác. Sablonos, de fekete."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Te egy alapvető sablon srác vagy. Az alapvető sablon srácok hosszó sorából "
+"származol."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -192,3 +201,6 @@ msgstr ""
 "Micsoda egy jétékbaba ez a baba. Egyszerűen édes. Mintha egyenesen egy "
 "menedék falán lógó pószterről léptél volna le mint az élő megtestesülése a "
 "Menedék-Gyereknek."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Te vagy a sablonos fekete srác. Sablonos, de fekete."

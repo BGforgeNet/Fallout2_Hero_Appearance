@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.1.0\n"
+"X-Generator: BGforge/msg2po v.1.4.3\n"
 
 #: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
 msgid "Race (Default)"
@@ -23,6 +23,7 @@ msgid ""
 msgstr ""
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr ""
 
@@ -91,7 +92,7 @@ msgid ""
 "Default Dudes."
 msgstr ""
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -109,11 +110,11 @@ msgid ""
 " mane sparkle in the morning light."
 msgstr ""
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr ""
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -125,7 +126,9 @@ msgid "Race (Black)"
 msgstr ""
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
 msgstr ""
 
 #: hmr02s00/apprace.msg:100

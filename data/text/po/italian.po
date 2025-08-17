@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2022-04-02 12:40+0000\n"
 "Last-Translator: McNelly <valeriobuzi87@gmail.com>\n"
 "Language-Team: Italian <https://tra.bgforge.net/projects/fallout/hero-appearance/it/>\n"
@@ -27,6 +27,7 @@ msgstr ""
 " di personaggi generici femminili predefiniti."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Stile (Predefinito)"
 
@@ -112,7 +113,7 @@ msgstr ""
 "Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie "
 "di personaggi generici maschili predefiniti."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -135,11 +136,11 @@ msgstr ""
 " I compaesani ti guardano intimoriti mentre i fili sfaccettati della tua "
 "gloriosa criniera brillano nella luce del mattino."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Stile (Rasato)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -154,8 +155,16 @@ msgid "Race (Black)"
 msgstr "Razza (Nero)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Sei il generico tipo nero. Generico, ma nero."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie "
+"di personaggi generici maschili predefiniti."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -193,3 +202,6 @@ msgid ""
 msgstr ""
 "Sembri un bambolotto. Solo, molto basso. Sembri uscito da un poster del "
 "Vault, l'incarnazione vivente di Vault-Boy."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Sei il generico tipo nero. Generico, ma nero."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2022-09-07 18:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
@@ -23,10 +23,11 @@ msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
-"Du är den generiska kvinnliga standardkaraktären. Du kommer från en lång rad "
-"generiska kvinnliga standardkaraktärer."
+"Du är den generiska kvinnliga standardkaraktären. Du kommer från en lång rad"
+" generiska kvinnliga standardkaraktärer."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Stil (Grundinställning)"
 
@@ -37,8 +38,8 @@ msgid ""
 " snicker and call you Bucket-Head behind your back?"
 msgstr ""
 "Till skillnad från de flesta av andra kvinnorna i din stam, som har sitt "
-"långa hår i en hästsvans, så är ditt svarta hår klippt som en fyrkant och är "
-"i axellängd. Vem bryr sig om de kallar dig Hinkskalle bakom din rygg?"
+"långa hår i en hästsvans, så är ditt svarta hår klippt som en fyrkant och är"
+" i axellängd. Vem bryr sig om de kallar dig Hinkskalle bakom din rygg?"
 
 #: hfr00s01/appstyle.msg:100
 msgid "Style (Blond Haired Female)"
@@ -50,8 +51,8 @@ msgid ""
 "tribe. The boys ogle, the girls scowl, and you wouldn't have it any other "
 "way."
 msgstr ""
-"Dina silkeslena honungsblonda lockar har alltid fått dig att sticka ut bland "
-"din stam. Pojkarna stirrar på dig, tjejerna skrattar och du skulle inte "
+"Dina silkeslena honungsblonda lockar har alltid fått dig att sticka ut bland"
+" din stam. Pojkarna stirrar på dig, tjejerna skrattar och du skulle inte "
 "vilja att det var på något annat sätt."
 
 #: hfr00s02/appstyle.msg:100
@@ -63,8 +64,8 @@ msgid ""
 "Some say your crimson hair indicates that you lack a soul. But when you look"
 " this good, who needs one?"
 msgstr ""
-"Vissa säger att ditt röda hår tyder på att du saknar en själ. Men när du ser "
-"så här bra ut, vem behöver då en?"
+"Vissa säger att ditt röda hår tyder på att du saknar en själ. Men när du ser"
+" så här bra ut, vem behöver då en?"
 
 #: hfr00s03/appstyle.msg:100
 msgid "Style (Punk Girl)"
@@ -113,7 +114,7 @@ msgstr ""
 "Du är den generiska standardsnubben. Du kommer från en lång rad generiska "
 "standardsnubbar."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -133,14 +134,14 @@ msgid ""
 " mane sparkle in the morning light."
 msgstr ""
 "Dina långa lockar studsar på dina axlar när du joggar förbi. De andra "
-"byborna ser på med häpnad på när de mångfacetterade strängarna i din härliga "
-"man glittrar i morgonljuset."
+"byborna ser på med häpnad på när de mångfacetterade strängarna i din härliga"
+" man glittrar i morgonljuset."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Stil (Skallig Snubbe)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -155,8 +156,16 @@ msgid "Race (Black)"
 msgstr "Ras (Svart)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Du är den Generiska Svarta Snubben. Men Generisk. Men Svart."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Du är den generiska standardsnubben. Du kommer från en lång rad generiska "
+"standardsnubbar."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -167,8 +176,9 @@ msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
-"Ditt väderbitna ansikte och din bronsfärgade hud visar att du är ett riktigt "
-"ödemarksbarn. Till och med dina vänner i stammen kallar dig för \"Stammen\"."
+"Ditt väderbitna ansikte och din bronsfärgade hud visar att du är ett riktigt"
+" ödemarksbarn. Till och med dina vänner i stammen kallar dig för "
+"\"Stammen\"."
 
 #: hmr02s00/appstyle.msg:100
 msgid "Style (Dreadlocks)"
@@ -193,3 +203,6 @@ msgid ""
 msgstr ""
 "Vilken docka den där bebisen är. Tja, bara en anka. Du är som tagen direkt "
 "ur en affisch från Valvet, den levande förkroppsligandet av Vault-Boy."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Du är den Generiska Svarta Snubben. Men Generisk. Men Svart."

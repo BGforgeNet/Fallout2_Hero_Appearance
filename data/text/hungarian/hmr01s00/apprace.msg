@@ -1,2 +1,2 @@
 {100}{}{Faj (Fekete)}
-{101}{}{Te vagy a sablonos fekete srác. Sablonos, de fekete.}
+{101}{}{You are the Generic Default Black Dude. You come from a long line of Generic Default Black Dudes.}

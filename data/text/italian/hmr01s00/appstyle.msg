@@ -1,2 +1,2 @@
-{100}{}{Stile (Rasato)}
-{101}{}{Capelli? Chi ne ha bisogno? Sei l'esempio brillante senza senso di mascolinita'. O forse e' solo il sole del deserto che riflette sulla tua testa. In ogni caso, sei fiero della tua rockeggiante e cupola cromata.}
+{100}{}{Stile (Predefinito)}
+{101}{}{Sembri un altro tipo di personaggio generico. Tutto quanto ti appare generico e predefinito e non c'e' nulla di sbagliato in tutto questo.}

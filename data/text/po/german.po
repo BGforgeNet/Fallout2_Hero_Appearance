@@ -3,11 +3,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2023-08-24 15:27+0000\n"
 "Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
-"Language-Team: German <https://tra.bgforge.net/projects/fallout/"
-"hero-appearance/de/>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/fallout/hero-appearance/de/>\n"
 "Language: german\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,10 +23,11 @@ msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
-"Du bist der typische weibliche Standardcharakter. Du entstammst einer langen "
-"Reihe von typischen weiblichen Standardcharaktern."
+"Du bist der typische weibliche Standardcharakter. Du entstammst einer langen"
+" Reihe von typischen weiblichen Standardcharaktern."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Stil (Standard)"
 
@@ -53,8 +53,8 @@ msgid ""
 "way."
 msgstr ""
 "Deine seidenen, honigblonden Locken haben dich schon immer aus deinem Stamm "
-"hervorstechen lassen. Die Jungs gaffen, die Mädchen blicken mürrisch, und du "
-"würdest es gar nicht anders haben wollen."
+"hervorstechen lassen. Die Jungs gaffen, die Mädchen blicken mürrisch, und du"
+" würdest es gar nicht anders haben wollen."
 
 #: hfr00s02/appstyle.msg:100
 msgid "Style (Red Haired Female)"
@@ -115,7 +115,7 @@ msgstr ""
 "Du bist der generische Standard-Kerl. Du entstammst einer langen Reihe von "
 "generischen Standard-Kerlen."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -139,11 +139,11 @@ msgstr ""
 "vorbeiläufst. Deine Mitbewohner schauen voller Ehrfurcht zu, wenn die "
 "facettenreichen Stränge deiner herrlichen Mähne im Morgenlicht funkeln."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Stil (Glatzköpfiger Kerl)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -159,8 +159,16 @@ msgid "Race (Black)"
 msgstr "Rasse (Schwarz)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Du bist der generische schwarze Kerl. Nicht mehr, nicht weniger."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Du bist der generische Standard-Kerl. Du entstammst einer langen Reihe von "
+"generischen Standard-Kerlen."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -171,8 +179,8 @@ msgid ""
 "Your weathered face and bronze skin show that you are a true child of the "
 "Wasteland. Even your tribal friends call you \"The Tribal\"."
 msgstr ""
-"Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres "
-"Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich \"Der "
+"Dein verwittertes Gesicht und deine bronzene Haut zeigen, dass du ein wahres"
+" Kind der Einöde bist. Selbst deine Stammesfreunde nennen dich \"Der "
 "Stammestyp\"."
 
 #: hmr02s00/appstyle.msg:100
@@ -198,3 +206,6 @@ msgid ""
 msgstr ""
 "Einfach entzückend. Du könntest direkt einem Vault-Poster entsprungen sein. "
 "Die lebende Verkörperung des Vault-Boy."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Du bist der generische schwarze Kerl. Nicht mehr, nicht weniger."

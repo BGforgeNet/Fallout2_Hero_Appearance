@@ -1,2 +1,2 @@
 {100}{}{Race (Noir)}
-{101}{}{Tu es un mec noir. Tout ce qu'il y a de plus classique. Mais noir.}
+{101}{}{You are the Generic Default Black Dude. You come from a long line of Generic Default Black Dudes.}

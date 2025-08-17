@@ -1,2 +1,2 @@
 {100}{}{Raza (Negro)}
-{101}{}{Eres el Hombre Negro Genérico. Pero Genérico. Pero Negro.}
+{101}{}{You are the Generic Default Black Dude. You come from a long line of Generic Default Black Dudes.}

@@ -1,2 +1,2 @@
-{100}{}{Stil (Skallig Snubbe)}
-{101}{}{Hår? Vem behöver det? Du'är en lysande ledstjärna av okonstlad och robust maskulinitet. Eller så är det kanske bara ödemarksolen som reflekterar på ditt huvud. Hur som helst är du stolt över att du har en kromkupol.}
+{100}{}{Stil (Grundinställning)}
+{101}{}{Du ser ut som någon slags generisk standardsnubbe. Hela ditt utseende är Generiskt och Standard--inte för att det är något fel med det.}

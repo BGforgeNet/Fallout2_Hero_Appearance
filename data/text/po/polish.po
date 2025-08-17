@@ -3,17 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2025-08-09 19:22+0000\n"
 "Last-Translator: Albert K <albercikbercikowski@gmail.com>\n"
-"Language-Team: Polish <https://tra.bgforge.net/projects/fallout/"
-"hero-appearance/pl/>\n"
+"Language-Team: Polish <https://tra.bgforge.net/projects/fallout/hero-appearance/pl/>\n"
 "Language: polish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.12.2\n"
 
 #: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
@@ -29,6 +27,7 @@ msgstr ""
 "Typowych Domyślnych Kobiecych Postaci."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Styl (Domyślny)"
 
@@ -80,8 +79,8 @@ msgid ""
 "in shamanic ritual to invoke the serpent. The green dye of holy root was "
 "used to give this effigy life."
 msgstr ""
-"Tylko ty nosisz na głowie zielonego węża płodności, by obdarzyć inne kobiety "
-"z plemienia błogosławieństwem potomstwa. Twoje włosy zostały obcięte w "
+"Tylko ty nosisz na głowie zielonego węża płodności, by obdarzyć inne kobiety"
+" z plemienia błogosławieństwem potomstwa. Twoje włosy zostały obcięte w "
 "szamańskim rytuale, aby przyzwać ducha węża. Zielony barwnik ze świętego "
 "korzenia został użyty, by tchnąć życie w ten rytualny wizerunek."
 
@@ -116,7 +115,7 @@ msgstr ""
 "Jesteś Typowym Domyślnym Kolesiem. Wywodzisz się z długiej linii Typowych "
 "Domyślnych Kolesi."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -139,11 +138,11 @@ msgstr ""
 "Koledzy z wioski patrzą z respektem kiedy wieloaspektowe kosmyki twojej "
 "wspaniałej grzywy połyskują w porannym świetle."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Styl (Łysy Koleś)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -159,8 +158,16 @@ msgid "Race (Black)"
 msgstr "Rasa (Czarnoskóry)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Jesteś typowym czarnoskórym kolesiem. Ale Typowym. Ale Czarnoskórym."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Jesteś Typowym Domyślnym Kolesiem. Wywodzisz się z długiej linii Typowych "
+"Domyślnych Kolesi."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -197,3 +204,6 @@ msgid ""
 msgstr ""
 "Ale słodziak z tego szkraba. Po prostu śliczny. Wyglądasz jak wycięty z "
 "jednego z plakatów z Krypty, żywe wcielenie Vault-Boy'a."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Jesteś typowym czarnoskórym kolesiem. Ale Typowym. Ale Czarnoskórym."

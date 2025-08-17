@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-07-20:11+0000\n"
+"POT-Creation-Date: 2025-08-17-07:25+0000\n"
 "PO-Revision-Date: 2021-09-28 12:40+0000\n"
 "Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/hero-appearance/fr/>\n"
@@ -27,6 +27,7 @@ msgstr ""
 "personnages féminins communs et sans histoires."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
+#: hmr01s00/appstyle.msg:100
 msgid "Style (Default)"
 msgstr "Style (Classique)"
 
@@ -115,7 +116,7 @@ msgstr ""
 "Tu es le personnage masculin commun. Tu viens d'une longue lignée de "
 "personnages masculins communs ayant vécu plein d'histoires."
 
-#: hmr00s00/appstyle.msg:101
+#: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
 "You look like some kind of Generic Default Dude. Everything about your "
 "appearance is Generic and Default--not that there's anything wrong with "
@@ -139,11 +140,11 @@ msgstr ""
 "mèches aux multiples facettes de ta glorieuse crinière qui scintillent dans "
 "la lumière du matin."
 
-#: hmr00s02/appstyle.msg:100 hmr01s00/appstyle.msg:100
+#: hmr00s02/appstyle.msg:100
 msgid "Style (Bald Head Dude)"
 msgstr "Style (Crane d'oeuf)"
 
-#: hmr00s02/appstyle.msg:101 hmr01s00/appstyle.msg:101
+#: hmr00s02/appstyle.msg:101
 msgid ""
 "Hair? Who needs it? You're a shining beacon of no-nonsense rugged "
 "masculinity. Or maybe that's just the wasteland sun reflecting off your "
@@ -159,8 +160,16 @@ msgid "Race (Black)"
 msgstr "Race (Noir)"
 
 #: hmr01s00/apprace.msg:101
-msgid "You are the Generic Black Dude. But Generic. But Black."
-msgstr "Tu es un mec noir. Tout ce qu'il y a de plus classique. Mais noir."
+#, fuzzy
+#| msgid ""
+#| "You are the Generic Default Dude. You come from a long line of Generic "
+#| "Default Dudes."
+msgid ""
+"You are the Generic Default Black Dude. You come from a long line of Generic"
+" Default Black Dudes."
+msgstr ""
+"Tu es le personnage masculin commun. Tu viens d'une longue lignée de "
+"personnages masculins communs ayant vécu plein d'histoires."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
@@ -197,3 +206,6 @@ msgid ""
 msgstr ""
 "Quelle poupée ce bébé. Enfin, juste un canard. Tu es la mascotte de l'Abri, "
 "l'incarnation vivante de l'Habitant de l'Abri."
+
+#~ msgid "You are the Generic Black Dude. But Generic. But Black."
+#~ msgstr "Tu es un mec noir. Tout ce qu'il y a de plus classique. Mais noir."
