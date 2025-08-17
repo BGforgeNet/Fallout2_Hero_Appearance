@@ -1,2 +1,2 @@
-{100}{}{Style (Bald Head Dude)}
-{101}{}{Hair? Who needs it? You're a shining beacon of no-nonsense rugged masculinity. Or maybe that's just the wasteland sun reflecting off your head. Either way, you're rocking the chrome dome and proud of it.}
+{100}{}{Style (Default)}
+{101}{}{You look like some kind of Generic Default Dude. Everything about your appearance is Generic and Default--not that there's anything wrong with that.}
