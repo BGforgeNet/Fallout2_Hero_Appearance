@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-17-07:25+0000\n"
-"PO-Revision-Date: 2022-09-07 18:30+0000\n"
+"PO-Revision-Date: 2025-08-21 14:48+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -156,16 +156,12 @@ msgid "Race (Black)"
 msgstr "Ras (Svart)"
 
 #: hmr01s00/apprace.msg:101
-#, fuzzy
-#| msgid ""
-#| "You are the Generic Default Dude. You come from a long line of Generic "
-#| "Default Dudes."
 msgid ""
 "You are the Generic Default Black Dude. You come from a long line of Generic"
 " Default Black Dudes."
 msgstr ""
-"Du är den generiska standardsnubben. Du kommer från en lång rad generiska "
-"standardsnubbar."
+"Du är den generiska svarta standardsnubben. Du kommer från en lång rad "
+"generiska svarta standardsnubbar."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
