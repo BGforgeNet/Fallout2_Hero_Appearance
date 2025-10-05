@@ -16,8 +16,8 @@ This a collection of additional **player** character models for Fallout 2 and ga
 
 **Notes:**
 
-- You can use it with [Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch), other modifications or vanilla game.
-- [Canon](#canon) sets are **already included** into [Restoration Project](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you use RPU, you **do not need** to download them separately.
+- You can use it with [Unofficial Patch, updated](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch), other modifications or vanilla game.
+- [Canon](#canon) sets are **already included** into [Restoration Project, updated](https://github.com/BGforgeNet/Fallout2_Restoration_Project). If you use RPU, you **do not need** to download them separately.
 - The sets are not guaranteed to be complete.
 
 ## Installation
