@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-17-07:25+0000\n"
-"PO-Revision-Date: 2022-04-02 12:40+0000\n"
-"Last-Translator: McNelly <valeriobuzi87@gmail.com>\n"
-"Language-Team: Italian <https://tra.bgforge.net/projects/fallout/hero-appearance/it/>\n"
+"PO-Revision-Date: 2026-02-28 12:40+0000\n"
+"Last-Translator: Andrea Bordoni <a.bordoni85@yahoo.it>\n"
+"Language-Team: Italian <https://tra.bgforge.net/projects/fallout/"
+"hero-appearance/it/>\n"
 "Language: italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: hfr00s00/apprace.msg:100 hmr00s00/apprace.msg:100
 msgid "Race (Default)"
@@ -23,8 +24,8 @@ msgid ""
 "You are the Generic Default Female Character. You come from a long line of "
 "Generic Default Female Characters."
 msgstr ""
-"Sei il generico personaggio femminile predefinito. Arrivi da una lunga serie"
-" di personaggi generici femminili predefiniti."
+"Sei il modello base femminile. Arrivi da una gloriosa dinastia di tizie "
+"qualunque, tutte identiche a te."
 
 #: hfr00s00/appstyle.msg:100 hmr00s00/appstyle.msg:100
 #: hmr01s00/appstyle.msg:100
@@ -110,8 +111,8 @@ msgid ""
 "You are the Generic Default Dude. You come from a long line of Generic "
 "Default Dudes."
 msgstr ""
-"Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie "
-"di personaggi generici maschili predefiniti."
+"Sei il classico modello maschile predefinito. Arrivi da una gloriosa "
+"dinastia di tizi fatti con lo stampino."
 
 #: hmr00s00/appstyle.msg:101 hmr01s00/appstyle.msg:101
 msgid ""
@@ -119,8 +120,8 @@ msgid ""
 "appearance is Generic and Default--not that there's anything wrong with "
 "that."
 msgstr ""
-"Sembri un altro tipo di personaggio generico. Tutto quanto ti appare "
-"generico e predefinito e non c'e' nulla di sbagliato in tutto questo."
+"Sembri una specie di Tizio Qualunque. Ogni dettaglio del tuo aspetto è "
+"Standard e Predefinito... non che ci sia nulla di male, sia chiaro."
 
 #: hmr00s01/appstyle.msg:100
 msgid "Style (Long Haired Dude)"
@@ -155,16 +156,12 @@ msgid "Race (Black)"
 msgstr "Razza (Nero)"
 
 #: hmr01s00/apprace.msg:101
-#, fuzzy
-#| msgid ""
-#| "You are the Generic Default Dude. You come from a long line of Generic "
-#| "Default Dudes."
 msgid ""
 "You are the Generic Default Black Dude. You come from a long line of Generic"
 " Default Black Dudes."
 msgstr ""
-"Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie "
-"di personaggi generici maschili predefiniti."
+"Sei il classico Modello Base Nero. Arrivi da una gloriosa dinastia di Tipi "
+"Neri fatti con lo stampino."
 
 #: hmr02s00/apprace.msg:100
 msgid "Race (Indian)"
