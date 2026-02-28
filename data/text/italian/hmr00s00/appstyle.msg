@@ -1,2 +1,2 @@
 {100}{}{Stile (Predefinito)}
-{101}{}{Sembri un altro tipo di personaggio generico. Tutto quanto ti appare generico e predefinito e non c'e' nulla di sbagliato in tutto questo.}
+{101}{}{Sembri una specie di Tizio Qualunque. Ogni dettaglio del tuo aspetto è Standard e Predefinito... non che ci sia nulla di male, sia chiaro.}

@@ -1,2 +1,2 @@
 {100}{}{Razza (Predefinito)}
-{101}{}{Sei il generico personaggio maschile predefinito. Arrivi da una lunga serie di personaggi generici maschili predefiniti.}
+{101}{}{Sei il classico modello maschile predefinito. Arrivi da una gloriosa dinastia di tizi fatti con lo stampino.}

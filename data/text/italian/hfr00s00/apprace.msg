@@ -1,2 +1,2 @@
 {100}{}{Razza (Predefinito)}
-{101}{}{Sei il generico personaggio femminile predefinito. Arrivi da una lunga serie di personaggi generici femminili predefiniti.}
+{101}{}{Sei il modello base femminile. Arrivi da una gloriosa dinastia di tizie qualunque, tutte identiche a te.}
