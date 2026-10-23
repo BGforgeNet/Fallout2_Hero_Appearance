@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.11
+
+Updated Italian translation.
+
 ## Version 2.10
 
 Translation updates.
