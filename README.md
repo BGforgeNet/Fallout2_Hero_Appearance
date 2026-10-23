@@ -1,8 +1,7 @@
 # Hero Appearance mod for Fallout 2
 
-[![Build status](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/workflows/package/badge.svg)](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/actions?query=workflow%3Apackage)
+[![Build status](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/actions/workflows/package.yml/badge.svg)](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/actions/workflows/package.yml)
 [![Translation status](https://hive.bgforge.net/widgets/fallout/-/hero-appearance/svg-badge.svg)](https://hive.bgforge.net/projects/fallout/hero-appearance/)
-[![Patreon](https://img.shields.io/badge/Patreon-donate-FF424D?logo=Patreon&labelColor=141518)](https://www.patreon.com/BGforge)
 
 [![Telegram](https://img.shields.io/badge/telegram-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange?logo=telegram)](https://t.me/bgforge)
 [![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)
@@ -12,7 +11,7 @@
 | [**Installation**](#installation)
 | [**Report issues**](#bug-reports-feature-requests)
 
-This a collection of additional **player** character models for Fallout 2 and games based on its engine.
+This is a collection of additional **player** character models for Fallout 2 and games based on its engine.
 
 **Notes:**
 
@@ -41,10 +40,10 @@ Humorous value, packaged separately. Requires main package to work.
 - Vault Boy
 - Unicorn
 
-### Bug reports, feature requests
+## Bug reports, feature requests
 
 Go to [github issues](https://github.com/BGforgeNet/Fallout2_Hero_Appearance/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=34).
 
-### Additional info
+## Additional info
 
 [**Changelog**](docs/changelog.md)
